@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyber Safe Girl - Chat Interface</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Geometric Background -->
+    <div class="geometric-bg">
+        <div class="shape circle-1"></div>
+        <div class="shape circle-2"></div>
+        <div class="shape circle-3"></div>
+        <div class="shape circle-4"></div>
+        <div class="shape circle-5"></div>
+        <div class="shape quarter-circle-1"></div>
+        <div class="shape quarter-circle-2"></div>
+        <div class="shape quarter-circle-3"></div>
+        <div class="shape quarter-circle-4"></div>
+        <div class="shape triangle-1"></div>
+        <div class="shape triangle-2"></div>
+        <div class="shape diamond"></div>
+        <div class="shape diamond-2"></div>
+        <div class="shape large-circle-1"></div>
+        <div class="shape large-circle-2"></div>
+        <div class="shape large-circle-3"></div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="container">
+        <div class="header">
+            <h1>Welcome to <span class="highlight">Cyber Safe Girl</span></h1>
+            <p>
+                Cyber Safe Girl is a unique program inspired by the Hon'ble Prime Minister Narendra Modi ji's "Beti Bachao, Beti Padhao" initiative. This project is "Beti Bachao Cyber Crime Se", designed to educate and empower about safe practices of responsible browsing and staying secure from emerging cyber threats, especially among the students, parents, and professionals.
+            </p>
+        </div>
+    </div>
+
+    <!-- Chat Button -->
+    <div class="chat-button" id="chatButton">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z"/>
+        </svg>
+        <span class="notification-badge" id="notificationBadge" style="display: none;">0</span>
+    </div>
+
+    <!-- Chat Window -->
+    <div class="chat-window" id="chatWindow">
+        <div class="chat-header">
+            <div class="chat-header-content">
+                <div class="chat-header-avatar">
+                    <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+                        <!-- Antenna -->
+                        <line x1="50" y1="15" x2="50" y2="30"/>
+                        <circle cx="50" cy="10" r="5"/>
+                        <!-- Head -->
+                        <rect x="25" y="30" width="50" height="40" rx="8"/>
+                        <!-- Eyes -->
+                        <circle cx="38" cy="45" r="6"/>
+                        <circle cx="62" cy="45" r="6"/>
+                        <!-- Mouth -->
+                        <rect x="35" y="58" width="30" height="6" rx="2"/>
+                        <!-- Ears -->
+                        <rect x="18" y="42" width="7" height="16" rx="2"/>
+                        <rect x="75" y="42" width="7" height="16" rx="2"/>
+                        <!-- Neck -->
+                        <rect x="42" y="70" width="16" height="8"/>
+                    </svg>
+                </div>
+                <div class="chat-header-info">
+                    <h3>Saanvi</h3>
+                    <p>
+                        <span class="status-dot"></span>
+                        Online
+                    </p>
+                </div>
+            </div>
+            <div class="chat-header-actions">
+                <button class="header-action-btn" id="minimizeBtn" title="Minimize">
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 19h12v2H6z"/>
+                    </svg>
+                </button>
+                <button class="header-action-btn" id="closeWindowBtn" title="Close">
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <div class="chat-body" id="chatBody">
+            <div class="welcome-message" id="welcomeMessage">
+                <div class="bot-icon">
+                    <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+                        <!-- Antenna -->
+                        <line x1="50" y1="15" x2="50" y2="30"/>
+                        <circle cx="50" cy="10" r="5"/>
+                        <!-- Head -->
+                        <rect x="25" y="30" width="50" height="40" rx="8"/>
+                        <!-- Eyes -->
+                        <circle cx="38" cy="45" r="6"/>
+                        <circle cx="62" cy="45" r="6"/>
+                        <!-- Mouth -->
+                        <rect x="35" y="58" width="30" height="6" rx="2"/>
+                        <!-- Ears -->
+                        <rect x="18" y="42" width="7" height="16" rx="2"/>
+                        <rect x="75" y="42" width="7" height="16" rx="2"/>
+                        <!-- Neck -->
+                        <rect x="42" y="70" width="16" height="8"/>
+                    </svg>
+                </div>
+                <h2>Welcome to Cyber Safe Girl</h2>
+                <p>Hi, I'm Saanvi, your Cyber Safety Assistant. Ask me anything about staying safe online, protecting your privacy, or dealing with cyberbullying.</p>
+            </div>
+
+            <div class="quick-questions" id="quickQuestions">
+                <button class="quick-question-btn" data-question="What is phishing?">
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/>
+                    </svg>
+                    What is phishing?
+                </button>
+                <button class="quick-question-btn" data-question="Is this website safe?">
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4z"/>
+                    </svg>
+                    Is this website safe?
+                </button>
+                <button class="quick-question-btn" data-question="How to create strong passwords?">
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M18 8h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm3.1-9H8.9V6c0-1.71 1.39-3.1 3.1-3.1 1.71 0 3.1 1.39 3.1 3.1v2z"/>
+                    </svg>
+                    How to create strong passwords?
+                </button>
+                <button class="quick-question-btn" data-question="What should I do if I'm being cyberbullied?">
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+                    </svg>
+                    What should I do if I'm being cyberbullied?
+                </button>
+            </div>
+
+            <div class="messages-container" id="messagesContainer"></div>
+            
+            <div class="typing-indicator" id="typingIndicator">
+                <span>Saanvi is typing</span>
+                <div class="typing-dots">
+                    <div class="typing-dot"></div>
+                    <div class="typing-dot"></div>
+                    <div class="typing-dot"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="chat-input-container">
+            <div class="chat-input-wrapper">
+                <input type="text" class="chat-input" id="chatInput" placeholder="Type your message..." autocomplete="off" />
+                <button class="send-btn" id="sendBtn" title="Send message">
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
