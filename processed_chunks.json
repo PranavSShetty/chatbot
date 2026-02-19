@@ -1,0 +1,1913 @@
+[
+  {
+    "content": "Title: Cyber Safe Girl Version: 7.0 Publisher: Dr Ananth Prabhu G Co-Authors: Adv Prashant Jhala First Published in India in 2018 Copyright (C) Campus Interview Training Solutions 2025 All rights reserved. Without limiting the rights under copyright reserved above, no part of this publication may be reproduced, stored or introduced into a retrieval system, or transmitted, in any form or by any means (electronic, mechanical, photocopying, recording or otherwise), without the prior written permission of the copyright owner. Requests for permission should be directed to educatorananth@gmail.com Designed and printed by Tarjani Communications Pvt. Ltd, Mangaluru This is a work of fiction, names, characters, businesses, places, events, locales and incidents are either the products of the author’s imagination or used in a fictitious manner. Any resemblance to actual persons, living or dead, or actual events is purely coincidental. The authors and publishers disclaim any liability in connectio",
+    "metadata": {
+      "page": 5,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "resemblance to actual persons, living or dead, or actual events is purely coincidental. The authors and publishers disclaim any liability in connection with the use of the information provided in this book.",
+    "metadata": {
+      "page": 5,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Credits Special Thanks to  Sanjay Sahay IPS (Rtd)  Chennabasavanna SL IPS  Hariram S IPS  Hanumantharaya IPS  Rohan Don Web Architect  Naveen Kumar Ashwin Bekal  M C Kavitha KSPS  Ravishankar KSP  Narasimha V T KSPS  Avinash Pandey IPS  Gopalkrishna K KSP  C Naresh Babu APP  Lingaraju S KSP  Sheikh Salim Director- Overseas   Vivek Raj Sponsor  Roopa D IPS  Vaikunt Prabhu Dhanyashree Bhat  Anudeep Karkera Artist  Shashank Kamath Dr Mustafa B Tech Resource  Dr Vedamurthi IPS  Rajshekara N IPS  Raghavendra Suhas IPS  Ch A S Murty ISEA Team  Dr Varadraj G  Shonal D  Dr Manjunath Bhandary,   MLC  Chaithra K M",
+    "metadata": {
+      "page": 6,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "MESSAGE  with good wishes It gives me immense pleasure to see Cyber Safe Girl 7.0 continue its inspiring journey of empowering young minds with digital awareness and cyber resilience. In today’s hyper-connected world, every click holds power-either to build or to destroy. This book simplifies complex cybercrimes   through   engaging   infotoons,   real-life-inspired stories, and clear legal guidance. It serves as both a mirror and a shield—reflecting the reality of online threats while equipping readers with the wisdom to navigate the digital world safely. I am proud to be associated with this project right from its inception. Our company, Panama Corporation Ltd., has been privileged   to   print   and   distribute   these   books   to   students of   government   schools   across   the   country.   We   pledge   to continue   supporting   this   noble   cause   by   ensuring   more books are printed and reach even the remotest corners of the nation—so that the message of cyber safety ",
+    "metadata": {
+      "page": 8,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "  this   noble   cause   by   ensuring   more books are printed and reach even the remotest corners of the nation—so that the message of cyber safety echoes in every   classroom   and   home,   making   India   truly   cyber   safe. I wholeheartedly congratulate the entire team behind this mission for their tireless efforts since 2016. Your commitment to Beti Bachao, Cyber Crime Se is not only visionary but also timely. May this edition educate millions more and inspire them to become responsible digital citizens and ambassadors of safety. With respectful regards,  Vivek Raj Bikarnakatte  Panama Corporation Ltd. https://linktr.ee/vivekrajpoojary",
+    "metadata": {
+      "page": 8,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "FOREWORD  The Cyber Safe Girl project was initiated in 2016, inspired by Prime Minister Narendra Modi’s vision of Beti Bachao, Beti Padhao. In an increasingly digital world, this initiative extends that mission—Beti Bachao Cyber Crime Se. Women and young girls are often targeted in online frauds, scams, and exploitation, making cyber awareness a crucial part of their safety. Cyber Safe Girl 7.0 is a continuation of this mission, evolving with new threats such as fake influencers, digital arrests, and AI-driven scams. By shedding light on these dangers, this book empowers readers with the knowledge and tools to protect themselves in the digital landscape. Over the years, Cyber Safe Girl has become a trusted guide for students,   professionals,   and   parents   alike.   Each   new   edition addresses the latest cyber crimes, backed by legal provisions and real-world cases, ensuring that readers stay informed and vigilant. As technology advances, so do cyber threats—but with awareness an",
+    "metadata": {
+      "page": 9,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "l provisions and real-world cases, ensuring that readers stay informed and vigilant. As technology advances, so do cyber threats—but with awareness and the right precautions, we can outsmart cyber criminals. This book is not just a resource; it is a movement toward a safer digital future for every girl and woman. The seventh edition of Cyber Safe Girl incorporates the latest cyber crime tactics and their corresponding legal implications under the IPC, BNSS, BSA, IT Act, and other relevant laws. It serves as a handbook for law enforcement, educators, and digital users, equipping them with the necessary insights to recognize, prevent, and respond to online dangers. Cyber security is not just about technology—it is about people, awareness, and collective responsibility. With this book, we take another step toward making cyberspace safer for all. Jai Hind! With respectful regards,  K. Annamalai  Former IPS Officer",
+    "metadata": {
+      "page": 9,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "all. Jai Hind! With respectful regards,  K. Annamalai  Former IPS Officer",
+    "metadata": {
+      "page": 9,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Do you want to invite  Dr Ananth Prabhu G  to address the students of your school / college or employees of your organisation..? contact +91 89515 11111 educatorananth@gmail.com to follow his regular updates like the page www.facebook.com/educatorananth",
+    "metadata": {
+      "page": 10,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Topics  MOBILE RECHARGE SHOP   01  DEBIT CARD CLONING   03  KEYLOGGER   05  SMS SPOOFING   07  CALL SPOOFING   09  RANSOMWARE   11  CYBER STALKING   13  PICTURE MORPHING   15  PROFILE HACKING   17  ONLINE GAMES   19  JOB CALL LETTER   21  DEEPFAKES   23  DATING WEBSITE   25  CAMERA HACKING   27  SOCIAL TROLLING   29  PONZI SCHEME   31  FAKE MATRIMONIAL PROFILE   33  MOBILE REPAIR SHOP   35  FAKE REVIEWS   37  FAKE PROFILE WITH SEXTORTION   39  CYBER VULTURES   41  APP TRAPS   43  JUICE JACKING   45  WIFI HACKING   47  ONLINE RADICALIZATION   49  HONEY TRAP   51  QR CODE SCAM   53  RFID CLONING   55  DRONE SURVEILLANCE   57  SEARCH ENGINE RESULTS SCAM   59  IDN HOMOGRAPH ATTACK   61  SCRATCH CARD SCAM   63  SIM SWAP   65  CRYPTOJACKING   67  VIDEO CONFERENCE SCAM   69  KIDS MOBILE PHONE   71  SMART HOMES   73  MICRO LOANS   75  BLUE SNARFING   77  STOLEN PHONE   79  EXAM MALPRACTICE   81  CONNECTED CAR   83  DRUG TRAFFICKING   85  DOXING   87  CYBER GROOMING   89  CRYPTO FRAUDS   91  Th",
+    "metadata": {
+      "page": 11,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "NG   77  STOLEN PHONE   79  EXAM MALPRACTICE   81  CONNECTED CAR   83  DRUG TRAFFICKING   85  DOXING   87  CYBER GROOMING   89  CRYPTO FRAUDS   91  The offences and their modus operandi are not gender specific but are gender neutral.",
+    "metadata": {
+      "page": 11,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Topics  CYBER SEX TRAFFICKING   93  CYBERWARFARE   95  HACKTIVISM   97  METAVERSE   99  SESSION HIJACKING ATTACK   101  PROMPT ENGINEERING   103  FILELESS ATTACKS   105  DELIVERY SCAM   107  VIRTUAL KIDNAPPING   109  FORMJACKING   111  CYBERSQUATTING   113  DNS HIJACKING   115  SMS BOMBING   117  INSIDER THREATS   119  FAKE INFLUENCER SCAM   121  DIGITAL ARREST   123  JUMPED DEPOSIT   125  CALL MERGE SCAM   127  MALVERTISING   129  WATERING HOLE ATTACK   131  LLM JAILBREAK   133  FAKE NEWS   135  FAKE PRODUCTIVITY APPS   137  STEGANOGRAPHY   139  DO’S AND DON’TS OF CYBER SAFETY   141  by Yashavantha Kumar KN WHERE TO REPORT THE CYBER-CRIMES   144  GOOGLE ANDROID HARDENING CHECKLIST   145  by Manjunath R G APPLE IOS HARDENING CHECKLIST   147  DO’S AND DON’TS   149  by Sheik Salim CYBER SAFETY CHECKLIST FOR STUDENTS   159  CYBER SAFETY CHECKLIST FOR PARENTS   160  CYBER SAFETY CHECKLIST FOR TEACHERS   161  15 DIGITAL WELLBEING & HEALTH TIPS   162  OFFENCES AND RELEVANT PENAL SECTIONS   1",
+    "metadata": {
+      "page": 12,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "KLIST FOR PARENTS   160  CYBER SAFETY CHECKLIST FOR TEACHERS   161  15 DIGITAL WELLBEING & HEALTH TIPS   162  OFFENCES AND RELEVANT PENAL SECTIONS   163  ONLINE COMPLAINT & HELPLINE NUMBERS   166  WE’D LOVE YOUR FEEDBACK!   167",
+    "metadata": {
+      "page": 12,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 1  MOBILE RECHARGE SHOP A Mobile Recharge Shop is a place where scamsters can gain access to your cellphone number because you have provided it to the recharge vendor. They will misuse your number to call or text you, exploit your ignorance or even emotionally manipulate you. IT Sections Applicable  IPC Sections (to be applied to the Shop Keeper) IPC Section 354A/BNS 75   - Sexual Harassment and punishment  for Sexual Harassment  IPC Section 354C/ BNS 77   - Voyeurism  IPC Section 383/384/ BNS 308   - Extortion (IF ANY DEMAND)  IPC Section 503/BNS 351   - Criminal Intimidation  IPC Section 506/BN 351   - Punishment for Criminal Intimidation  IPC Section 509/BNS 79   - Word, gesture or act intended to  insult modesty of a woman  IT Act: IT Act Section 66E   - Punishment for violation of privacy  Mobile Number Sale to Stalkers by Recharge Shop: IPC Sections (to be applied to the Shop Keeper) IPC Section 109/BNS 49   - Punishment for abetment  IPC Section 114/B",
+    "metadata": {
+      "page": 13,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "le to Stalkers by Recharge Shop: IPC Sections (to be applied to the Shop Keeper) IPC Section 109/BNS 49   - Punishment for abetment  IPC Section 114/BNS 54   - Abettor present when offence is  committed  IPC Section 120B/BNS 61   - Punishment for Criminal Conspiracy  IPC Section 406/BNS 316   - Punishment for Criminal Breach of Trust  Everything comes for a Charge and in case of Recharge, there’s no Free Charge!",
+    "metadata": {
+      "page": 13,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "2  MOBILE RECHARGE SHOP",
+    "metadata": {
+      "page": 14,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 3  DEBIT CARD CLONING Debit Card skimming happens when the PIN is revealed to another person. A scamster who knows the PIN and has possession of the card even for a short while can replicate the card with a skimming /schimming device and withdraw cash. IT Sections Applicable  IT Act for cloning Section 43:   This section deals with unauthorized access to computer systems, data breaches, and other computer-related offenses.  IT Act Section 66   -   Computer related offences  IT Act Section 66C   -   Punishment for Identity Theft  IT Act Section 66D   -   Punishment for cheating by personation using computer resource  Money Transaction followed by cloning: IPC Section 419/BNS 319   -   Punishment for cheating by personation  IPC Section 420/BNS 318   -   Cheating  IT Act Section 66D   -   Punishment for cheating by personation by using computer resource.  IT Act Section 72A   -   This section deals with the punishment for disclosing personal information obtain",
+    "metadata": {
+      "page": 15,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "by personation by using computer resource.  IT Act Section 72A   -   This section deals with the punishment for disclosing personal information obtained in the course of providing services under the terms of lawful contract.  IT Act Section 84A   -   This section empowers the Central Government to prescribe modes or methods for encryption.  Cloning may blow up your Earnings!",
+    "metadata": {
+      "page": 15,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "4  DEBIT CARD CLONING",
+    "metadata": {
+      "page": 16,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 5  KEYLOGGER It is a malicious program that may be installed on the victim’s computer for recording computer user keystrokes to steal passwords and other sensitive information. With Keylogger a scamster will be able to collect login details and other matter saved in the computer and have them mailed to a designated email address. IT Sections Applicable  Key logger installation: IT Act IT Act Section 43   -   Deals with unauthorized access, damage to computer systems, and data.  IT Act Section 66   -   Computer Related Offences  Stealing personal information: IT Act IT Act Section 66C   -   Punishment for Identity Theft  Creating fake profile & posting private conversation : IT Act Section 66C   -   Punishment for Identity Theft  IT Act Section 66D   -   Punishment for cheating by personation by using computer resources  IT Act Section 67   -   Punishment for publishing or transmitting obscene material in electronic form  IT Act Section 67A   -   Punishment f",
+    "metadata": {
+      "page": 17,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "esources  IT Act Section 67   -   Punishment for publishing or transmitting obscene material in electronic form  IT Act Section 67A   -   Punishment for publishing or transmitting of material containing sexually explicit act etc., in electronic form  IT Act Section 67B   -   Punishment for publishing or transmitting of material depicting children in sexually explicit act etc., in electronic form & sections of POCSO  IT Act Section 72   -   Breach of Confidentiality and Privacy  IT Act Section 79   -   Intermediary Liability Protection  IPC Sections: IPC Section 354A/BNS 75 -   Sexual Harassment and punishment  for Sexual Harassment  If in hard copy, IPC Sections 292/BNS 294, 293/BNS 295  294/BNS 296 Keylogger may empty your Coffer!",
+    "metadata": {
+      "page": 17,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "6  KEYLOGGER",
+    "metadata": {
+      "page": 18,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 7  SMS SPOOFING Spoofing is being able to send a message by hiding or changing or using a completely different sender ID. Typically, when you send an SMS, your handheld device sends the message with your phone number as the originator where in you as the sender cannot alter that number. IT Sections Applicable  Act of hoax or trick or deceive a communication IPC Section IPC Section 465/BNS 336   -   Making a false document (FORGERY)  IPC Section 419/BNS 319   -   Punishment for cheating by personation  IT Act Section 43   -   While not directly related to SMS spoofing, this section deals with unauthorized access to computer systems, which could apply if someone gains unauthorized access to systems for the purpose of carrying out SMS spoofing.  IT   Act   Section   43A   and   Section   72A:   These sections deal with the compensation for failure to protect data and confidentiality of information. If SMS spoofing leads to a breach of sensitive information, the",
+    "metadata": {
+      "page": 19,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": " with the compensation for failure to protect data and confidentiality of information. If SMS spoofing leads to a breach of sensitive information, these sections might come into play.  IT Act Section 66C   -   This section deals with identity theft. If SMS spoofing issued to impersonate someone else and commit fraud or deceive others, it could be covered under this section.  IT Act Section 66D   -   Punishment for cheating by personation by using computer resource  IT Act Section 66E   -   This section addresses violations of privacy and the capturing, publishing, or transmitting of images of a private area of any person without their consent. If SMS spoofing is used to invade someone’s privacy in this manner, this section could apply.  SMS are Spoofed by Cyber Crooks!",
+    "metadata": {
+      "page": 19,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "8  SMS SPOOFING",
+    "metadata": {
+      "page": 20,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 9  CALL SPOOFING Call spoofing happens through apps that enable a person with criminal intent to change his number and voice to impersonate another to defraud. IT Sections Applicable  Call Spoofing is always with criminal intent! Act of hoax or trick or deceive a communication IPC Section IPC Section 465/BNS 336   -   Making a false document( FORGERY)  IPC Section 419/BNS 319   -   Punishment for cheating by personation  IT Act Section 66C - Identity Theft :   This section of the Information Technology Act deals with identity theft, which includes dishonestly or fraudulently making use of the electronic signature, password or any other unique identification feature of any other person. Call spoofing can fall under the ambit of this section if it involves stealing someone’s unique identification feature for wrongful gain.  Additionally, IT Act Section 66D -   Cheating by Personation using Computer Resource can also be applied. This section addresses cheating ",
+    "metadata": {
+      "page": 21,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "gful gain.  Additionally, IT Act Section 66D -   Cheating by Personation using Computer Resource can also be applied. This section addresses cheating by personation through the use of a computer resource. If call spoofing is done with the intention to cheat or deceive someone, it could potentially fall under this section.",
+    "metadata": {
+      "page": 21,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "10  CALL SPOOFING",
+    "metadata": {
+      "page": 22,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 11  RANSOMWARE Ransomware is a form of malware that encrypts a victim’s files. The attacker then demands a ransom from the victim to restore access to the data.   Users are shown instructions as to how to pay a fee to get the decryption key. The costs can range from a few hundred rupees to thousands, payable to cyber criminals in bitcoin. IT Sections Applicable  Unauthorised access, Denial, Encryption : IT Act Section 43   -   This section deals with unauthorized access, damage to computer systems, and data breaches.  IT Act Section 66   -   Computer related offences  Section 66C   -   This section deals with identity theft.  Section 66D   -   This section deals with cheating by impersonation using a computer resource.  Demand without payment : IPC Section 384/BNS 308   -   Extortion  IT Act Section 386/BNS 308   -   This section deals with extortion by a  putting person in fear of death or  grievous hurt.  IPC Section 511/BNS 62   -   Punishment for attempt",
+    "metadata": {
+      "page": 23,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "   -   This section deals with extortion by a  putting person in fear of death or  grievous hurt.  IPC Section 511/BNS 62   -   Punishment for attempting to commit  offence punishable with imprisonment  for life or other imprisonment  Demand & payment : IPC Section 384/BNS 308   -   Extortion  Sensitize your Hardware and Software to avoid Ransomware!",
+    "metadata": {
+      "page": 23,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "12  RANSOMWARE",
+    "metadata": {
+      "page": 24,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 13  CYBER STALKING Cyber stalking is the use of the Internet or other electronic means to stalk or harass another by misusing information uploaded on social networking sites. IT Sections Applicable  Section 66A -   This section previously dealt with the offense of sending offensive messages through communication services. However, it was struck down by the Supreme Court of India in 2015 on grounds of being vague and overbroad, and violating the right to free speech.  Offline: IPC Section 354 D/BNS 78 -   Stalking  Online : IPC Section 354 D/BNS 78 -   This section was introduced through the Information Technology (Amendment) Act, 2013, and specifically deals with the offense of cyber stalking. It states that any person who monitors these by a woman of the internet, email, or any other form of electronic communication, commits the offense of cyber stalking. It also criminalizes actions that cause the woman to fear for her safety or the safety of her relatives",
+    "metadata": {
+      "page": 25,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "cation, commits the offense of cyber stalking. It also criminalizes actions that cause the woman to fear for her safety or the safety of her relatives. Conviction under this section can result in imprisonment for a term which may extend to three years and a fine.  Cyber stalking means someone is keeping an eye on you remotely!",
+    "metadata": {
+      "page": 25,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "14  CYBER STALKING",
+    "metadata": {
+      "page": 26,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 15  PICTURE MORPHING Morphing the face of a person to the body of another and publishing it to blackmail or otherwise intimidate the person is one of the ways by which people who upload photos on social networking sites can be exploited. IT Sections Applicable  IPC Sections IPC Section 292/BNS 294   -   Sale etc of Obscene books etc  (if in hardcopy)  IPC Section 465/BNS 336   -   Morphing photographs and creating a false  electronic record  IPC Section 469/BNS 336   -   Making false electronic document for  causing defamation  IPC Section 507/BNS 351   -   Criminal Intimidation by an Anonymous  communication  IPC Section 509/BNS 79   -   Word, gesture or act intended to insult  modesty of a woman  IT Act Section 66C   -   Punishment for Identity Theft (dishonestly or fraudulently using a unique identification feature)  Section 66E   -   Punishment for Violation of Privacy  Section 67   -   Punishment for publishing or transmitting obscene material in electr",
+    "metadata": {
+      "page": 27,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "feature)  Section 66E   -   Punishment for Violation of Privacy  Section 67   -   Punishment for publishing or transmitting obscene material in electronic form  Section 67A   -   Punishment for publishing or transmitting of material containing sexually explicit act etc., in electronic form  Section 67B   -   Punishment for publishing or transmitting of material depicting children in sexually explicit act etc., in electronic form & sections of POCSO  Section 72   -   Penalty for Breach of Confidentiality and Privacy  For publishing photos containing indecent representation of women:  Section 4 R/W Section 6 of Indecent Representation of Women’s Act, 1986  Morphing is used for Defaming!",
+    "metadata": {
+      "page": 27,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "16  PICTURE MORPHING",
+    "metadata": {
+      "page": 28,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 17  PROFILE HACKING Profile Hacking happens when your email or social networking profile is accessed by a probable stalker who then compromises it. IT Sections Applicable  IT Act Section. 43   -   Unauthorized access to computer systems, networks,data.  Section 66   -   Computer related offences  Section 66C   -   Punishment for Identity Theft (dishonestly or fraudulently using password)  Section. 66D   -   Impersonation cheating through computer resources.  IPC Section. 379/BNS 303 & 380/BNS 305 :  Theft of data or credentials.  IPC Section. 463/BNS 336, 464/BNS 335, 468/BNS 336 :  Forgery of electronic records for fraud.  IPC Section. 507/BNS 351 :  Criminal intimidation through hacking.  Profile Hacking means Security is Lacking!",
+    "metadata": {
+      "page": 29,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "18  PROFILE HACKING",
+    "metadata": {
+      "page": 30,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 19  ONLINE GAMES Girls who are vulnerable to loneliness, low self-esteem and clinical depression can fall prey to dangerous online games that may become addictive and further harm them. some dangerous online games like the blue whale challenge even end in the victim ending her life. This is a personal as well as social challenge for the others around. IT Sections Applicable  Information Technology Act, 2000: Section 43 -   This section deals with unauthorized access to computer systems, computer networks, or data. It covers actions such as hacking, introducing viruses, and damaging computer systems.  Section 66 -   This section deals with computer-related offenses, including hacking, identity theft, and other forms of cyber crime  Section 67A -   This section deals with the punishment for publishing or transmitting sexually explicit content in electronic form.  Section 67B -   This section deals with the punishment for publishing or transmitting material dep",
+    "metadata": {
+      "page": 31,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "ting sexually explicit content in electronic form.  Section 67B -   This section deals with the punishment for publishing or transmitting material depicting children in sexually explicit acts.  Section 79 -   This section provides safe harbor to intermediaries,including online platforms and game hosting services, from liability for third-party content. However, they are required to adhere to certain conditions, including taking down illegal content upon receiving notice.  IPC Sections IPC Section 299/BNS 100   -   Culpable homicide  IPC Section 305/BNS 107   -   Abetment of suicide of Child or Insane Person  IPC Section 306/BNS 108   -   Abetment of suicide  IPC Section 321/BNS 115   -   Voluntarily causing hurt  IPC Section 335/BNS 122   -   Voluntarily causing grievous hurt on provocation  IPC Section 336/BNS 125   -   Act endangering life or personal safety  of others  Before it becomes a game changer of your child’s Future, keep track what they do on their personal Computers (lapto",
+    "metadata": {
+      "page": 31,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "ife or personal safety  of others  Before it becomes a game changer of your child’s Future, keep track what they do on their personal Computers (laptops, iPads, mobile phones, tabs, desktop etc).",
+    "metadata": {
+      "page": 31,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "20  ONLINE GAMES",
+    "metadata": {
+      "page": 32,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 21  JOB CALL LETTER Websites   offering   jobs   need   to   be   checked   for   veracity   and authenticity. Mails need to be double-checked and verified before one responds and acts on instructions provided, especially if one is asked to put in a personal appearance. IT Sections Applicable  Fake account / ID: IT Act Section 43A -   Compensation for failure to protect data: This section deals with the liability of a body corporate in case of a breach of sensitive personal data due to negligence in implementing and maintaining reasonable security practices and procedures.  Section 66C -   Punishment for Identity Theft (dishonestly or fraudulently using a unique identification feature)  Section 66D -   Punishment for cheating by personation by using computer resource  Section 72 -   Breach of confidentiality and privacy: This section deals with the punishment for breach of confidentiality and privacy.  Section 72A -   Punishment for disclosure of information",
+    "metadata": {
+      "page": 33,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "d privacy: This section deals with the punishment for breach of confidentiality and privacy.  Section 72A -   Punishment for disclosure of information in breach of lawful contract: This section pertains to the punishment for revealing information in breach of a lawful contract.  IPC Section 419/BNS 319   -   Punishment for cheating by personation  IPC Section 420/BNS 318   -   Cheating  IPC Section 465/BNS 336   -   Making a false document (DEFINITION SECTION)  IPC Section 468/BNS 336   -   Forgery for cheating  IPC Section 471/ BNS 340   -   Using forged document as genuine  IPC Section 474/BNS 339   -   Procession of forged document  IPC Section 120B/BNS 61   -   Punishment for Criminal Conspiracy  IPC Section 34/BNS 3(5)   -   Acts done by several persons in furtherance of Common Intention  Abatement for offence a. On the spot : IPC Section 114 /BNS 54   -   Abettor present when offence is committed  b. Remotely: IPC Section 109 /BNS 49   -   Punishment for abetment  Such fake call ",
+    "metadata": {
+      "page": 33,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "ction 114 /BNS 54   -   Abettor present when offence is committed  b. Remotely: IPC Section 109 /BNS 49   -   Punishment for abetment  Such fake call letters may see you out of your existing job sooner or later!",
+    "metadata": {
+      "page": 33,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "22  JOB CALL LETTER",
+    "metadata": {
+      "page": 34,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 23  DEEPFAKES Deepfake is a technique that is used to combine and superimpose new images and videos onto source images or videos. It is used to create videos where the voice or face of another is superimposed on the original in such a way that the viewer or listener cannot distinguish or doubt the veracity of it. IT Sections Applicable  Fake account / ID: IT Act Section 66C - Punishment for Identity Theft (dishonestly or fraudulently using a unique identification feature) Impersonation for cheating : IT Act Section 66D -   Punishment for cheating by personation by using computer resource.  ITA Section 43A and Section 72A of the Information Technology Act, 2000   - Compensation for Failure to Protect Data and Privacy: These sections deal with the compensation payable to an individual whose personal data and information have been negligently disclosed, which could be applicable in cases where deepfakes lead to privacy breaches.  IPC Section 419/BNS 319   - Pun",
+    "metadata": {
+      "page": 35,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "rmation have been negligently disclosed, which could be applicable in cases where deepfakes lead to privacy breaches.  IPC Section 419/BNS 319   - Punishment for cheating by personation  IPC Section 420/BNS 318   - Cheating  Publishing online: IT Act Section 67   - Punishment for publishing or transmitting obscene material in electronic form  IT   Act   Section   67A   - Punishment for publishing or transmitting of material containing sexually explicit act etc., in electronic form  IT Act Section 67B   - Punishment for publishing or transmitting of material depicting children in sexually explicit act etc., in electronic form & sections of POCSO  IPC Section 354A/BNS 75   - Sexual Harassment and punishment for Sexual Harassment  Section 465/BNS 336   - Making a false document  Section 499/BNS 356   - Defamation  Section 500/BNS 356   - Punishment for Defamation  Section 507/BNS 351   - Criminal Intimidation by an Anonymous communication  SEC 509/BNS 79   – Insulting modesty of women  St",
+    "metadata": {
+      "page": 35,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "ishment for Defamation  Section 507/BNS 351   - Criminal Intimidation by an Anonymous communication  SEC 509/BNS 79   – Insulting modesty of women  Stalking: IPC Section 354 D/BNS 78   - Stalking Offline  : IPC Section 354 D/BNS 78   - Stalking Online  IPC Section 120-B/BNS 61   - Punishment for Criminal Conspiracy  IPC Section 34/BNS 3(5)   - Acts done by several persons in furtherance of Common Intention  Abatement for offence: a. On the spot: IPC Section114/BNS 54 - Abettor present when offence is committed b. Remotely: IPC Section109/BNS 49 - Punishment for abetment Deep Fakes are not noticeable easily and hence have High Stakes!",
+    "metadata": {
+      "page": 35,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "24  DEEPFAKES",
+    "metadata": {
+      "page": 36,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 25  DATING WEBSITE Females can be emotionally manipulated by smooth talkers on dating sites. Any private pictures or texts that they send across to probable dating companions on such sites are fair game for unscrupulous persons who can then blackmail them. IT Sections Applicable  ITA Section 43A -   This section deals with the compensation for failure to protect data and is relevant for data breaches.  IT Act Section 66C -   Punishment for Identity Theft (dishonestly or fraudulently using a unique identification feature)  IT Act Section 66D -   Punishment for cheating by personation by using computer resource. Section 72A: This section penalizes the disclosure of personal information without consent.  IPC Section 419/BNS 319 -   Punishment for cheating by personation  IPC Section 420/BNS 318 -   Cheating  IPC Section 354A/BNS 75 -   Sexual Harassment and punishment for Sexual Harassment  IPC Section 354C/BNS 77 -   Voyeurism  IPC Section 354D/BNS 78 -   Deal",
+    "metadata": {
+      "page": 37,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "ection 354A/BNS 75 -   Sexual Harassment and punishment for Sexual Harassment  IPC Section 354C/BNS 77 -   Voyeurism  IPC Section 354D/BNS 78 -   Deals with stalking.  Stalking : Offline - IPC Section 354 D/BNS 78 - Stalking Online - IPC Section 354 D/BNS 78 –   Stalking  Publishing online: IT Act Section 67 -   Punishment for publishing or transmitting obscene material in electronic form  IT Act Section 67A -   Punishment for publishing or transmitting of material containing sexually explicit act etc., in electronic form  IT Act Section 67B -   Punishment for publishing or transmitting of material depicting children in sexually explicit act etc., in electronic form & sections of POCSO  IPC Section 507/BNS 351   -   Criminal Intimidation by an Anonymous communication  IPC Section 509/BNS 79   -   Word, gesture or act intended to insult modesty of a woman  IPC Section 465/BNS 336   -   Making a false document  Looking out for a Date, be careful that you don’t get Check-Mate!",
+    "metadata": {
+      "page": 37,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "desty of a woman  IPC Section 465/BNS 336   -   Making a false document  Looking out for a Date, be careful that you don’t get Check-Mate!",
+    "metadata": {
+      "page": 37,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "26  DATING WEBSITE",
+    "metadata": {
+      "page": 38,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 27  CAMERA HACKING Camera hacking happens when photographs of a person are taken without consent, through malware that got downloaded with an attachment. Phones with no camera guard can be exploited for such criminal activities. IT Sections Applicable  Hacking- IT Act Section 43 -   Penalty for unauthorized access to computer systems,data disruption, and theft.  IT Act Section 66 -   Computer related offences  Section 66B -   Punishment for dishonestly receiving stolen computer resources or communication devices.  Capturing photograph/video: IPC Section 354C/BNS 77 -   Voyeurism  IT Act Section 66E -   Punishment for violation of privacy  Creating Fake ID in social media IT Act Section 66D -   Punishment for cheating by personation by using computer resource  IPC Section 419/BNS 319 -   Punishment for cheating by personation  Online Sexual harassment to a woman IPC Section 354A/BNS 75 -   Sexual Harassment and punishment for Sexual Harassment.  IPC Section 3",
+    "metadata": {
+      "page": 39,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "by personation  Online Sexual harassment to a woman IPC Section 354A/BNS 75 -   Sexual Harassment and punishment for Sexual Harassment.  IPC Section 354C/BNS 77 -   Voyeurism (capturing or transmitting images of private parts without consent).  Stalking : Offline   : IPC Section 354D/BNS 78 -   Stalking  Online   : IPC Section 354D/BNS 78 -   Stalking  Publishing online IT Act Section 66F -   Cyber Terrorism under the IT Act  IT Act Section 67 -   Punishment for publishing or transmitting obscene material in electronic form  IT Act Section 67A -   Punishment for publishing or transmitting of material containing sexually explicit act etc., in electronic form  IT Act Section 67B -   Punishment for publishing or transmitting of material depicting children in sexually explicit act etc., in electronic form & sections of POCSO.  IT Act Section 72 -   Breach of Confidentiality and Privacy under the IT Act  IPC Section 507/BNS 351(4)   - Criminal Intimidation by an Anonymous communication  IPC",
+    "metadata": {
+      "page": 39,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "72 -   Breach of Confidentiality and Privacy under the IT Act  IPC Section 507/BNS 351(4)   - Criminal Intimidation by an Anonymous communication  IPC Section 509/BNS 79   - Word, gesture or act intended to insult modesty of a woman  Think before taking your cell phones while using the restroom. Your privacy may have no room to rest!",
+    "metadata": {
+      "page": 39,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "28  CAMERA HACKING",
+    "metadata": {
+      "page": 40,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 29  SOCIAL TROLLING Social Trolling is posting inflammatory messages or visuals about a person or organisation in an online community with the sole intention of causing humiliation or nuisance to that person. IT Sections Applicable  IPC Section 507/BNS 351 -   Criminal Intimidation by an Anonymous communication  IPC Section 509/BNS 79 -   Word, gesture or act intended to insult modesty of a woman  Stalking: Offline: IPC Section 354D/BNS 78 -   Stalking  Online : IPC Section 354D/BNS 78 -   Stalking  IT Act Section 66A -   Punishment for sending offensive messages through communication service, etc.  IT Act Section 66C -   Punishment for identity theft.  IT Act Section 67A -   Punishment for publishing or transmitting of material containing sexually explicit act, etc., in electronic form.  IT Act Section 67B -   Punishment for publishing or transmitting of material depicting children in sexually explicit act, etc., in electronic form.  Are you Trolling, the l",
+    "metadata": {
+      "page": 41,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": " Punishment for publishing or transmitting of material depicting children in sexually explicit act, etc., in electronic form.  Are you Trolling, the law may be soon following!",
+    "metadata": {
+      "page": 41,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "30  SOCIAL TROLLING",
+    "metadata": {
+      "page": 42,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 31  PONZI SCHEME A Ponzi scheme is a fraudulent investing scam promising high rates of return with little risk to investors. Victims of such schemes are vulnerable to hackers with malicious intent and fall prey to their promises of recovery of their losses. IT Sections Applicable Sections 3, 4, 5, 6 of Prize Chits and Money Circulation Schemes (Banning) Act, 1978 Also look up at State Acts eg Section 9 of the Karnataka Protection of Interest of Depositors In Financial Establishments Act, 2004 Section 3, 4 of Maharashtra Protection of Interest of Depositors In Financial Establishments Act, 1999 etc.  SEBI Act, 1992 - Section 11B:   This empowers SEBI to counter fraudulent practices in securities trading, including Ponzi schemes.  Companies Act, 2013 - Section 447:   It penalizes fraud, encompassing Ponzi schemes, with imprisonment and fines.  IPC Section 120B/BNS 61   -   Punishment for Criminal Conspiracy  IPC Section 406/BNS 316   -   Punishment for Crimina",
+    "metadata": {
+      "page": 43,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": ", with imprisonment and fines.  IPC Section 120B/BNS 61   -   Punishment for Criminal Conspiracy  IPC Section 406/BNS 316   -   Punishment for Criminal Breach of Trust  IPC Section 420/BNS 318   -   Cheating  IPC Section 34/BNS 3(5)   -   Acts done by several persons in furtherance of Common Intention  Investing in Ponzi schemes may make you run out of all other Schemes of life!",
+    "metadata": {
+      "page": 43,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "32  PONZI SCHEME",
+    "metadata": {
+      "page": 44,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 33  FAKE MATRIMONIAL PROFILE A fraudster may have registered on a matrimonial site with a fake profile. The details and profile pic may not be his. He can dupe a naive girl who falls for his practised charm and believes in the authenticity of supportive material that he provides to back up his identity. IT Sections Applicable  IT Act Section 66C -   Punishment for Identity Theft (dishonestly or fraudulently using a unique identification feature)  IT Act Section 66D -   Punishment for cheating by personation by using computer resource  IT Act Section 66E -   Punishment for violation of privacy.  IPC Section 415/BNS 318   -   Punishment for cheating.  IPC Section 419/BNS 319   -   Punishment for cheating by personation  IPC Section 420/BNS 318   -   Cheating  IPC Section 464/BNS 335   -   Making a false document.  IPC Section 465/BNS 336(2)   -   punishment for forgery  IPC Section 468/BNS 336(3)   -   Forgery for purpose of cheating.  IPC Section 471/BNS 340 ",
+    "metadata": {
+      "page": 45,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "  IPC Section 465/BNS 336(2)   -   punishment for forgery  IPC Section 468/BNS 336(3)   -   Forgery for purpose of cheating.  IPC Section 471/BNS 340   -   Using as genuine a forged document.  IPC Section 507/BNS 351   -   Criminal Intimidation by an  Anonymous communication  Marriages are made in Heaven but in the virtual world you end up paying the cost of messing with Heavenly Affairs!",
+    "metadata": {
+      "page": 45,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "34  FAKE MATRIMONIAL PROFILE",
+    "metadata": {
+      "page": 46,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 35  MOBILE REPAIR SHOP Pictures and videos stored in the phone’s gallery can be accessed by any person once the phone is in his possession. A mobile repair shop may have a criminal who accesses private pictures or other data and uploads them on shady sites to make them viral. He may also use them for blackmailing. IT Sections Applicable  IT Act Section 43A   -   This section deals with compensation for failure to protect sensitive personal data.  IT Act Section 66   -   Computer Related Offences  IT Act Section 66C   -   Prohibits   identity   theft,   which   includes impersonating someone with the intent to cause wrongful loss.  IT Act Section 66D   -   Deals with cheating by impersonation using computer resources.  IT Act Section 72A   -   It criminalizes the disclosure of personal information without consent, intending to cause wrongful loss or gain  IPC Section 406/BNS 316   -   Punishment for Criminal Breach of Trust  Publishing online IT Act Section 6",
+    "metadata": {
+      "page": 47,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "t, intending to cause wrongful loss or gain  IPC Section 406/BNS 316   -   Punishment for Criminal Breach of Trust  Publishing online IT Act Section 67   -   Punishment for publishing or transmitting obscene material in electronic form  IT Act Section 67A   -   Punishment for publishing or transmitting of material containing sexually explicit act etc., in electronic form  IT Act Section 67B -   Punishment for publishing or transmitting of material depicting children in sexually explicit act etc., in electronic form & sections of POCSO  IPC Section 506/BNS 351   -   Punishment for Criminal Intimidation  IPC Section 507/BNS 351   -   Criminal Intimidation by an Anonymous communication  IPC Section 509/BNS 79   -   Word, gesture or act intended to insult modesty of a woman  Indian Copyright Act, 1957   -   Section 63B: Online Copyright Infringement Section   63B   deals   with   the   offense   of   knowingly   circumventing technological measures to infringe copyright.  If caution not ad",
+    "metadata": {
+      "page": 47,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "ngement Section   63B   deals   with   the   offense   of   knowingly   circumventing technological measures to infringe copyright.  If caution not adhered at such Shops, get ready to take big Hops!",
+    "metadata": {
+      "page": 47,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "36  MOBILE REPAIR SHOP",
+    "metadata": {
+      "page": 48,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 37  FAKE REVIEWS A website may dupe customers by putting up fake reviews of products. They plant glowing reviews and pay for perfect ratings that attract customers, especially backed by discounted prices. These products from dubious sites may cause untold harm if used. IT Sections Applicable  IPC Section 406/BNS 316   -   Punishment for Criminal Breach of Trust  IPC Section 420/BMS 318   -   Cheating  IT Act Section 43(a) -   Compensation for Damage to Computer, Computer System, etc. (IT Section 66C - Punishment for Identity Theft (IT Act, 2000)  IT Act Section 66D -   Punishment for Cheating by Personation (IT Act, 2000)  IT Act Section 66F -   Punishment for Cyber Terrorism (IT Act, 2000)  Fake Reviews may give you wrong Overviews!",
+    "metadata": {
+      "page": 49,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "38  FAKE REVIEWS",
+    "metadata": {
+      "page": 50,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 39  FAKE PROFILE WITH SEXTORTION Public changing rooms may have strategically placed cameras that capture pics of the users, naturally with criminal intent. These pics can then be uploaded on a duplicate social media account with the intention of extortion. IT Sections Applicable  Capturing photograph/video: IT Act Section 43   -   Unauthorized access to computer systems, data, orinformation.  IT Act Section 66C   -   Punishment for Identity Theft (dishonestly or fraudulently using a unique identification feature)  IT Act Section 66D   -   Punishment for cheating by personation by using computer resource  Section 66E   -   Violation of privacy.  IPC Section 415/BNS 318   -   Cheating.  IPC Section 416/BNS 319   -   Cheating by personation.  IPC Section 419/BNS 319   -   Punishment for cheating by personation  IPC Section 354A/BNS 75   -   Sexual Harassment and punishment for Sexual  IPC Section 354C/BNS 77   -   Voyeurism  IPC Section 354D/BNS 78   -   Stalk",
+    "metadata": {
+      "page": 51,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "PC Section 354A/BNS 75   -   Sexual Harassment and punishment for Sexual  IPC Section 354C/BNS 77   -   Voyeurism  IPC Section 354D/BNS 78   -   Stalking.  IPC Section 503/BNS 351   -   Criminal intimidation.  IPC Section 507/BNS 351   -   Criminal Intimidation by an Anonymous communication  Publishing online IT Act Section 67   -   Punishment for publishing or transmitting obscene material in electronic form  IT Act Section 67A   -   Punishment for publishing or transmitting of material containing sexually explicit act etc., in electronic form  IT Act Section 67B   -   Punishment for publishing or transmitting of material depicting children in sexually explicit act etc., in electronic form & sections of POCSO  IPC Section 509/BNS 79   -   Word, gesture or act intended to insult modesty of a woman  A Fake Profile can cause unimaginable consequences!",
+    "metadata": {
+      "page": 51,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "nsequences!",
+    "metadata": {
+      "page": 51,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "40  FAKE PROFILE WITH SEXTORTION",
+    "metadata": {
+      "page": 52,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 41  CYBER VULTURES Cyber-vultures are a merciless breed of hackers who like to feast on consumers and businesses suffering from any type of attack. They use this scenario as an opportunity to trick them and swindle more money. IT Sections Applicable  IT Act Section 66   -   Computer related offences  IT Act Section 66C   -   Punishment for Identity Theft (dishonestly or fraudulently using a unique identification feature)  IT Act Section 67   -   Punishment   for   publishing   or   transmitting obscene material in electronic form.  IT Act Section 67A   -   Punishment for publishing or transmitting of material containing sexually explicit act, etc., in electronic form.  Impersonation as financial company: IT Act Section 66D   -   Punishment for cheating by personation by using computer resource  Fetching personal/ Banking/wallet details: IT Act Section 66C   -   Punishment for Identity Theft (dishonestly or fraudulently using a unique identification feature/p",
+    "metadata": {
+      "page": 53,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "l/ Banking/wallet details: IT Act Section 66C   -   Punishment for Identity Theft (dishonestly or fraudulently using a unique identification feature/password/electronic signature)  IPC Section 420/BMS 318 –   Cheating  Vultures live on dead bodies, cyber vultures live on people who have already lost their money (who are dead financially).",
+    "metadata": {
+      "page": 53,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "42  CYBER VULTURES",
+    "metadata": {
+      "page": 54,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 43  APP TRAPS The internet could come with a hidden cost. One of these is preloaded apps that harvest users’ data without their knowledge. These apps ask for permission to access files and once given, they may use videos, photos and storage media not only to be mined by marketers but also for other nefarious purposes. IT Sections Applicable  IPC Section 406/BNS 316 -   Punishment for Criminal Breach of Trust  IPC Section 420/BMS 318 -   Cheating  Information Technology Act, 2000 (IT Act): a. IT Act Section 43A -   This section deals with the compensation for failure to protect data. Organizations handling sensitive personal data are required to implement reasonable security practices to protect such data. If they fail to do so and a person suffers harm as a result, the organization could be liable to pay compensation.  b. IT Act Section 66 -   This section deals with computer-related offenses, including unauthorized access, data theft, and damage to computer",
+    "metadata": {
+      "page": 55,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "sation.  b. IT Act Section 66 -   This section deals with computer-related offenses, including unauthorized access, data theft, and damage to computer systems.  These traps give you a silent rap and take away your sensitive personal data.",
+    "metadata": {
+      "page": 55,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "44  APP TRAPS",
+    "metadata": {
+      "page": 56,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 45  JUICE JACKING Juice Jacking is a type of cyber attack involving a charging port that doubles as a data connection, typically over USB. This often involves either installing malware or copying sensitive data from a smart phone or other computer devices. Charging ports at public places are prime areas for juice jacking. IT Sections Applicable  IT Act Section 43   -   This section deals with unauthorized access to computer systems, computer networks, or resources.  IT Act Section 66   -   Computer Related Offences  IT Act Section 66C   -   Punishment for Identity Theft (dishonestly or fraudulently using a unique identification feature/password/electronic signature)  IT Act Section 66D   -   This section pertains to cheating by personation using a computer resource.  IT Act Section 66E   -   This section deals with violation of privacy.  IT Act Section 72   -   This section deals with the breach of confidentiality and privacy of information.  Data Theft   - ",
+    "metadata": {
+      "page": 57,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "with violation of privacy.  IT Act Section 72   -   This section deals with the breach of confidentiality and privacy of information.  Data Theft   - IPC Section 379/BNS 303 You may end up giving your data by way of Lottery to the fraudster as against the life of your Battery.",
+    "metadata": {
+      "page": 57,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "46  JUICE JACKING",
+    "metadata": {
+      "page": 58,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 47  WIFI HACKING Wifi hacking is essentially cracking the security protocols in a wireless network, granting full access for the hacker to view, store, download, or abuse the wireless network. Weak passwords to wifi networks may enable a hacker to log into the net through the wifi connection in the vicinity. IT Sections Applicable  IT Act Section 66   -   Computer Related Offences  IT Act Section 66B   -   Punishment for dishonestly receiving stolen computer resource or communication device  IT Act Section 66C   -   Identity Theft  IT Act Section 72   -   Breach of Confidentiality and Privacy  Wrongful gain, wrongful loss of internet data: IPC Section 420/BNS 318   -   Cheating  Mischief by internet utility: IPC Section 425/BNS 324/426/BNS 324   -   Mischief  Publishing online IT Act Section 67   -   Punishment   for   publishing   or   transmitting obscene material in electronic form  IT Act Section 67A   -   Punishment for publishing or transmitting of mat",
+    "metadata": {
+      "page": 59,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "   for   publishing   or   transmitting obscene material in electronic form  IT Act Section 67A   -   Punishment for publishing or transmitting of material containing sexually explicit act etc., in electronic form  IT Act Section 67B   -   Punishment for publishing or transmitting of material depicting children in sexually explicit act etc., in electronic form & sections of POCSO Other provisions of Narcotic Drugs and Psychotropic Substances Act, 1985.  To live a highfy virtual life, better secure your Wi-Fi!",
+    "metadata": {
+      "page": 59,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "48  WIFI HACKING",
+    "metadata": {
+      "page": 60,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 49  ONLINE RADICALIZATION Young, vulnerable individuals can fall prey to terrorists’ propaganda while spending time online and browsing the net.   The targets of such extremists are individuals or groups of people who can be easily led towards terrorist ideologies because of their experiences, state of mind or sometimes their upbringing. IT Sections Applicable  IT Act Section 66F   -   Punishment for Cyber Terrorism  IPC Section 120-B/BNS 61   -   Punishment of Criminal Conspiracy  IPC Section 121/BNS 147   -   Waging or attempting to wage war, or abetting waging of war, against the Government of India  IPC Section 121A/BNS 148   -   Conspiracy to commit offences punishable under Section 121A  IPC Section 122/BNS 149   -   Collecting arms, etc., with intention of waging war against the Government of India  Don’t get Radicalized, rather be Rationalized!",
+    "metadata": {
+      "page": 61,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "t get Radicalized, rather be Rationalized!",
+    "metadata": {
+      "page": 61,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "50  ONLINE RADICALIZATION",
+    "metadata": {
+      "page": 62,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 51  HONEY TRAP Honey trapping is an investigative practice that uses romantic or intimate relationships for an interpersonal, political or monetary purpose to obtain sensitive information. In today’s cyber world, “Honey Trap” has gained a new dimension on social media platforms like Facebook, Twitter etc to trap targets by blackmailing them. IT Sections Applicable  Capturing Picture/Video Over Online: IPC Section 354C/BNS 77   -   Voyeurism  IPC Section 509/BNS 79   -   Word, gesture or act intended to insult modesty of a woman  IT Act Section 66E   -   Punishment for violation of privacy  IT Act Section 67   -   Punishment for publishing or transmitting obscene material in electronic form  IT Act Section 67A   -   Punishment for publishing or transmitting of material containing sexually explicit act etc., in electronic form  IT Act Section 67B   -   Punishment for publishing or transmitting of material depicting children in sexually explicit act etc., in el",
+    "metadata": {
+      "page": 63,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "lectronic form  IT Act Section 67B   -   Punishment for publishing or transmitting of material depicting children in sexually explicit act etc., in electronic form & sections of POCSO  Demand for ransom (attempt): IPC Section 385/BNS 308   -   Putting person in fear of injury in order to commit extortion  IPC Section 511/BNS 62   -   Punishment for attempting to commit offence punishable with imprisonment for life or other imprisonment  With AI, it becomes almost difficult if not impossible to make out the real from surreal.",
+    "metadata": {
+      "page": 63,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "52  HONEY TRAP",
+    "metadata": {
+      "page": 64,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 53  QR CODE SCAM A QR (Quick Response) code is nothing more than a two-dimensional barcode. This type of code was designed to be read by robots that keep track of produced items in a factory. As a QR code takes up a lot less space than a legacy barcode, its usage soon spread and Hackers took it to their advantage! QR codes are easy to generate and hard to tell apart from one another. To most human eyes, they all look the same. IT Sections Applicable  IPC Section 406/BNS 316   -   Punishment for Criminal Breach of Trust  IPC Section 420/BMS 318   -   Cheating  Unauthorised Access by installing malware in the background: IT Act Section 43   -   Unauthorized Access  IT Act Section 66   -   Computer related offences  IT Act Section 66C   -   Identity Theft  IT Act Section 66D   -   Cheating by Personation  IT Act Section 66E   -   Privacy Violation  Your money may be at stake because the codes or apps downloaded by you can be fake.",
+    "metadata": {
+      "page": 65,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "ection 66E   -   Privacy Violation  Your money may be at stake because the codes or apps downloaded by you can be fake.",
+    "metadata": {
+      "page": 65,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "54  QR CODE SCAM",
+    "metadata": {
+      "page": 66,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 55  RFID CLONING Radio frequency identification, or RFID often abbreviated Radio Frequency Identification is method for automatic identification of objects, where the object IDs read or write data using radio waves. Each chip contains an identifier stored inside, with unique number and antenna. Most of these cards can be cloned, easily! IT Sections Applicable  IT Act Section 66   -   Computer Related Offences  Stealing RFID data / RFID Cloning: IT Act Section 66C   -   Punishment for Identity Theft (dishonestly or fraudulently using a unique identification feature/ password/electronic signature)  Retaining stolen data & Selling Credit Card Details: IT Act Section 66B   -   punishment for dishonestly receiving stolen computer resource or communication device  IPC Section 420/BNS 318   -   Cheating  Creating Replica of Digital ID & accessing server by impersonation: IT Act Section 66   -   Computer Related Offences  IT Act Section 66C   -   Punishment for Iden",
+    "metadata": {
+      "page": 67,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "ica of Digital ID & accessing server by impersonation: IT Act Section 66   -   Computer Related Offences  IT Act Section 66C   -   Punishment for Identity Theft (dishonestly or fraudulently using a unique identification feature)  IT Act Section 66D   -   Punishment for cheating by personation by using computer resource  IPC Section 419/BNS 319   -   Punishment for cheating by personation  Use technology only if you can imbibe Cyber Hygiene in your Genes.",
+    "metadata": {
+      "page": 67,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "56  RFID CLONING",
+    "metadata": {
+      "page": 68,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 57  DRONE SURVEILLANCE In aviation and in space, a drone refers to an unpiloted aircraft or spacecraft. Drones can be equipped with various types of surveillance equipment that can collect high definition video and still images day and night. Drones can be equipped with technology allowing   them   to   intercept   cell   phone   calls,   determine   GPS locations, and gather license plate information. IT Sections Applicable Following/Stalking/Capturing any PRIVATE AREA pic /video of a women by DRONE without her consent:  IPC Section 354A/BNS 75   -   Sexual Harassment and punishment for Sexual Harassment  IPC Section 354C/BNS 77   -   Voyeurism  IPC Section 354D/BNS 78   -   Stalking  IPC Section 509/BNS 79   -   Word, gesture or act intended to insult modesty of a woman  IT Act Section 66E   -   Punishment for violation of privacy  Unauthorised access to WI FI by DRONE: IT Act Section 66   -   Computer Related Offences  Stealing personal information via WI",
+    "metadata": {
+      "page": 69,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "r violation of privacy  Unauthorised access to WI FI by DRONE: IT Act Section 66   -   Computer Related Offences  Stealing personal information via WI FI Cracker: IT Act Section 66C   -   Punishment for Identity Theft (dishonestly or fraudulently using a unique identification feature)  Dropping hazardous materials to house via DRONE: IPC Section 436/BNS 326   -   Mischief by fire or explosive substance with intent to destroy house, etc.  You are profiled day in and day out without doubt.",
+    "metadata": {
+      "page": 69,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "58  DRONE SURVEILLANCE",
+    "metadata": {
+      "page": 70,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 59  SEARCH ENGINE RESULTS SCAM A hacker can create a legitimate-looking website and get it indexed by various search engines, making it appear in search results based on the keywords you type. This way, misleading results, fake help line numbers etc can be displayed, making the user believe them and fall prey to this Search Engine Optimization (SEO) scam. IT Sections Applicable  IT Act Section 66   -   Computer Related Offences  Replacing Original Contact Details by Fraudster Details: IT Act Section 66C   -   Punishment for Identity Theft (dishonestly or fraudulently using a unique identification feature)  IT Act Section 66D   -   Punishment for cheating by personation by using computer resource  IPC Section 419/BNS 319   -   Punishment for cheating by personation  IPC Section 420/BNS 318   -   Cheating  IPC Section 465/BNS 336   -   Making a false document  IPC Section 468/BNS 336   -   Forgery for the purpose of cheating  Fake numbers of customer care may ",
+    "metadata": {
+      "page": 71,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "ction 465/BNS 336   -   Making a false document  IPC Section 468/BNS 336   -   Forgery for the purpose of cheating  Fake numbers of customer care may put you under intensive care.",
+    "metadata": {
+      "page": 71,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "60  SEARCH ENGINE RESULTS SCAM",
+    "metadata": {
+      "page": 72,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 61  IDN HOMOGRAPH ATTACK An IDN homograph attack is similar to another type of domain name spoofing known as typo squatting. Both techniques attempt to deceive users by using a new domain name that’s similar to an established name, although they exploit different types of similarities. IT Sections Applicable  IT Act Section 66   -   Computer related offences  IT Act Section 66C   -   Punishment for Identity Theft  IT Act Section 66D   -   Punishment for cheating by personation using  a computer resource  IPC Section 419/BNS 319   -   Punishment for cheating by personation  IPC Section 420/BNS 318   -   Cheating  Crackers replacing Letters & Characters to commit frauds.",
+    "metadata": {
+      "page": 73,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "62  IDN HOMOGRAPH ATTACK",
+    "metadata": {
+      "page": 74,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 63  SCRATCH CARD SCAM A user receives a message with a link to a third-party website with a promise of winning guaranteed money. When the user clicks on the link, it redirects to a website with a scratch card mimicking the design of popular Pay Wallets scratch card. IT Sections Applicable  IT Act Section 66   -   Computer related offences  IT Act Section 66C   -   Punishment for Identity Theft  IT Act Section 66D   -   Punishment for cheating by personation using  a computer resource  IPC Section 419/BNS 319   -   Punishment for cheating by personation  IPC Section 420/BNS 318   –   Cheating  Sharing sensitive Credentials will bring about losses that would be Substantial",
+    "metadata": {
+      "page": 75,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "64  SCRATCH CARD SCAM",
+    "metadata": {
+      "page": 76,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 65  SIM SWAP A SIM swap scam (also known as port-out scam, SIM splitting, Smishing and sim jacking, SIM swapping) is a type of account takeover   fraud.   The   fraud   exploits   a   mobile   phone   service provider’s ability to seamlessly port a telephone number to a device containing a different SIM. This feature is normally used when a customer has lost or had their phone stolen, or is switching service to a new phone. IT Sections Applicable  IT Act Section 66   -   Computer related offences  IT Act Section 66C   -   Punishment for Identity Theft  IT Act Section 66D   -   Punishment for cheating by personation using  a computer resource  IPC Section 419/BNS 319   -   Punishment for cheating by personation  IPC Section 420/BNS 318   -   Cheating  Swapping of Sim could lead you to a situation thats Dim",
+    "metadata": {
+      "page": 77,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "66  SIM SWAP",
+    "metadata": {
+      "page": 78,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 67  CRYPTO JACKING It is a type of cyber attack in which a hacker co-opts a target’s computing power to illicitly mine crypto currency on the hacker’s behalf. Crypto jacking can target individual consumers, massive institutions, and even industrial control systems. It slows down infected computers, as the mining process takes priority over other legitimate activities. IT Sections Applicable  IT Act Section 66   -   Computer related offences  IT Act Section 66C   -   Punishment for Identity Theft  IT Act Section 66D   -   Punishment for cheating by personation using a computer resource  IPC Section 419/BNS 319   -   Punishment for cheating by personation  IPC Section 420/BNS 318   -   Cheating  Section of Prevention of Money Laundering Act, 2002 (PMLA), may apply as per the facts of the case. Crypto jacking helps hackers in Money Making",
+    "metadata": {
+      "page": 79,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "s hackers in Money Making",
+    "metadata": {
+      "page": 79,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "68  CRYPTO JACKING",
+    "metadata": {
+      "page": 80,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 69  VIDEO CONFERENCE SCAM There has been a mass adaptation of online platforms to conduct meetings,   online   classes,   conferences   without   giving   much consideration to the security settings of these platforms. This has paved the way for cyber criminals to take advantage of loopholes for malicious purposes. IT Sections Applicable  IT Act Section 66   -   Computer related offences  IT Act Section 66C   -   Punishment for Identity  IT Act Section 67   -   Publishing or transmitting obscene content  IT Act Section 67A   -   Publishing or transmitting sexually explicit acts or conduct  Theft IT Act Section 66D   -   Punishment for cheating by personation using a computer resource (as per the facts of the case)  IPC Section 419/BNS 319   -   Punishment for cheating by personation  IPC Section 420/BNS 318   -   Cheating (as per the facts of the case)  Inference of who’s attending such virtual Conference needs to made",
+    "metadata": {
+      "page": 81,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "   Cheating (as per the facts of the case)  Inference of who’s attending such virtual Conference needs to made",
+    "metadata": {
+      "page": 81,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "70  VIDEO CONFERENCE SCAM",
+    "metadata": {
+      "page": 82,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 71  KIDS MOBILE PHONE Children are using devices at a younger age and   it’s a tricky situation for most parents since they do not want their child to come across adult, abusive, or violent content on the internet. Thus, it’s important to consider setting controls on the devices they use. Responsible mobile phone use is about managing costs, sticking to family rules, keeping phones safe and being respectful. IT Sections Applicable  If Gambling is involved:  The acts may attract Provisions of   IT Act Section 69A   for blocking illegal gambling websites. The Public Gambling Act,1867. The Foreign Exchange Management Act, 1999 (FEMA). The Lotteries Regulation Act of 1998. A few States have made provisions for laws on Gambling.  Exceptions:  1. Horse racing is legal in India 2. Lottery system (in few States) 3. The Public Gambling Act of 1867 exempts skill-based games from the definition of gambling.  Online games may bring about losses, disrepute and shame",
+    "metadata": {
+      "page": 83,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": " Public Gambling Act of 1867 exempts skill-based games from the definition of gambling.  Online games may bring about losses, disrepute and shame",
+    "metadata": {
+      "page": 83,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "72  KIDS MOBILE PHONE",
+    "metadata": {
+      "page": 84,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 73  SMART HOMES Smart-home devices hold a treasure trove of personal information, from your birth date to credit card details, that cyber criminals can steal via hacking if the devices lack robust protections to thwart attacks. They can then use the stolen data to launch targeted attacks to rope you into shady deals. IT Sections Applicable  Digital outreach may lead to Privacy Breach  Digital outreach may lead to Privacy Breach  IPC Section 354/BNS 74   -   Sexual harassment  IPC Section 354C/BNS 77   -   Voyeurism  IPC Section 509/BNS 79   -   Outraging modesty of women  IT Act Section 66   -   Computer related offences  IT Act Section 66E   -   Punishment for violation of privacy",
+    "metadata": {
+      "page": 85,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "74  SMART HOMES",
+    "metadata": {
+      "page": 86,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 75  MICRO LOANS Fly-by-night micro lending illegal app-based financiers are thriving. These moneylenders target younger customers who look for quick loans for consumption purposes. Those failing to pay up will have their photos shared in their family and workplace social media groups, a tactic that has driven many to desperation. IT Sections Applicable  App based micro loans are Unsecured and the borrower becomes Insecure IPC Section 420/BNS 318   -   Cheating  IPC Section 503/BNS 351/ 506/BNS 351   -   Criminal Intimidation  IPC Section 383/BNS 308   -   Extortion  IPC Section 306/BNS 108   -   Abetment of Suicide  IPC Section 499/BNS 356 / 500/BNS 356   -   Defamation  IPC Section 120B/BNS 61   -   Criminal Conspiracy  IPC Section 34/BMS 3(5)   -   Common Intention Sections of Reserve Bank of India Act, 1934 (as per the facts of the case)",
+    "metadata": {
+      "page": 87,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "(as per the facts of the case)",
+    "metadata": {
+      "page": 87,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "76  MICRO LOANS",
+    "metadata": {
+      "page": 88,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 77  BLUE SNARFING It is a device hack performed when a wireless, Bluetooth-enabled device is in discoverable mode. Blue snarfing allows hackers to remotely access Bluetooth device data, such as a user’s calendar, contact list, emails and text messages. This attack is perpetrated without the victim’s knowledge. IT Sections Applicable  IT Act Section 66   -   Computer related offences  IT Act Section 66C   -   Punishment for Identity Theft  IT Act Section 66D   -   Punishment for cheating by personation using a computer resource (as per the facts of the case)  IPC Section 419/BNS 319   -   Punishment for cheating by personation  IPC Section 420/BNS 318   -   Cheating (as per the facts of the case)  Hacker may use your Bluetooth to route your information and cause you blues",
+    "metadata": {
+      "page": 89,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "78  BLUE SNARFING",
+    "metadata": {
+      "page": 90,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 79  STOLEN PHONE A stolen phone can leave you feeling helpless and scrambling. Mobile phones and the data they hold are very valuable to thieves. And for similar reasons - they hold so much important personal information of real and sentimental value - a theft can be a huge loss for the owner. IT Sections Applicable  IPC Section 378/BNS 303/ 379/BNS 303 – Theft  This section deals with theft and covers the unlawful taking of movable property, including stolen phones.  IPC Section 406/BNS 316  This section pertains to criminal breach of trust.  IPC Section 411/BNS 317  This section deals with dishonestly receiving stolen property.  IT Act Section 66   -   Computer related offences  IT Act Section 66   -   This section addresses identity theft and unauthorized use of electronic signatures, passwords, or any other unique identification feature.  IT Act Section 66D   -   This section pertains to cheating by personation using computer resources.  Lost cell phone,",
+    "metadata": {
+      "page": 91,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": " unique identification feature.  IT Act Section 66D   -   This section pertains to cheating by personation using computer resources.  Lost cell phone, it may affect your cells and hormone",
+    "metadata": {
+      "page": 91,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "80  STOLEN PHONE",
+    "metadata": {
+      "page": 92,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 81  EXAM MALPRACTICE Examination   malpractice   is   defined   as   any   deliberate   act   of wrongdoing, contrary to the rules of examinations designed to give a candidate an undue advantage. Also known as cheating, these days students resort to hi-tech examination malpractice (otherwise called e-cheating or digital cheating) in various levels of the educational system. IT Sections Applicable  Information Technology Act, 2000 - Section 66:   This section deals with computer-related offenses, including unauthorized access to computer systems.  Information Technology Act, 2000 - IPC Section 43:   This section covers penalties for unauthorized access, damages to computer systems, and data breaches.  Indian Penal Code, 1860 - IT Act Section 420:   This section deals with cheating and dishonestly inducing delivery of property.  Prevention of Unfair Means Act (PUMA):   While not a cyber law, this act irrelevant as it addresses unfair practices during exams.  U",
+    "metadata": {
+      "page": 93,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "ry of property.  Prevention of Unfair Means Act (PUMA):   While not a cyber law, this act irrelevant as it addresses unfair practices during exams.  UGC Regulations / University Rules:   Universities and educational institutions often have their own rules and regulations to prevent exam malpractice.  Short cuts may cut short your career.",
+    "metadata": {
+      "page": 93,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "82  EXAM MALPRACTICE",
+    "metadata": {
+      "page": 94,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 83  CONNECTED CAR Connected cars are part of the ‘internet of things’, a phrase that refers to everyday items being connected to the internet with the intention of making life easier. The connected car is becoming software-defined, network-aware, and ultra-connected, transmitting data and “interacting” with the road and every other vehicle around it, increasing the chances of getting hacked! IT Sections Applicable  IPC Section 354D/BNS 78 -   This Section also covers online stalking that is to say monitoring her use of the internet, email or other forms of electronic communications & 66 R/W 43 (a), if he causes DOS then 43(f).  Information Technology Act, 2000 : IT Act Section 43 -   Unauthorized access to computer systems and data.  Section   66   -   Computer-related   offenses,   including   hacking   and datatheft.  IT Act Section 66B -   Punishment for dishonestly receiving stolen computer resources or communication devices.  Motor Vehicles Act, 1988 : ",
+    "metadata": {
+      "page": 95,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "tatheft.  IT Act Section 66B -   Punishment for dishonestly receiving stolen computer resources or communication devices.  Motor Vehicles Act, 1988 :  Various sections related to road safety, licensing, registration, and liability in case of accidents involving connected vehicles.  Privacy Laws :  Personal Data Protection Bill (proposed) or any relevant amendments to existing laws. These laws would govern the collection, storage, processing, and sharing of personal data by connected vehicles.  Consumer Protection Laws :  Consumer   Protection   Act,   2019:   Pertinent   sections   related   to productliability and consumer rights in case of defects or malfunctions in connected car systems.  While using IoT-Internet of Things also use your IoT-Intelligence of Thinking.",
+    "metadata": {
+      "page": 95,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "84  CONNECTED CAR",
+    "metadata": {
+      "page": 96,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 85  DRUG TRAFFICKING The last decade has seen the emergence of new internet technologies that have acted as important facilitators of online drug markets. The internet now hosts a range of virtual marketplaces (both on the surface and deep web) for selling and buying illicit substances. Greater connectivity, global outreach and easily accessible forums are some of the reasons for their popularity. IT Sections Applicable Sections of NDPS (sections would apply depending upon the quantity that she was in possession of at the time of the raid, it could be for personal consumption or commercial quantity, and sections would also apply as to whether she was also supplying or trading/dealing/facilitating of the banned substances)  NDPS Act: Section 8(c)   -   Prohibition of Certain Operations  Section 18   -   Punishment for contravention in relation to manufactured drugsand preparations  Section 21   -   Punishment for contravention in relation to poppy straw  Sect",
+    "metadata": {
+      "page": 97,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "nt for contravention in relation to manufactured drugsand preparations  Section 21   -   Punishment for contravention in relation to poppy straw  Section 27A   -   Punishment for financing illicit traffic and harbouring offenders  Use of prohibited drugs when depressed, you may have your freedom to right to life and right to personal liberty get suppressed.",
+    "metadata": {
+      "page": 97,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "86  DRUG TRAFFICKING",
+    "metadata": {
+      "page": 98,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 87  DOXING To   dox   someone   means   to   release   their   personal   or   private information that may prove harmful or embarrassing. This can happen in the real world, but the internet has made it easier both to find and release this information to a wide audience. Doxing may reveal someone’s personal information like their home address or workplace, social security or phone number, private correspondence or pictures, criminal history, IP address, or other details. IT Sections Applicable  IT Act Section 66C - Identity Theft (Information Technology Act, 2000):   This section deals with the punishment for identity theft.  IT Act Section 66D - Cheating by Personation (Information Technology Act, 2000):   This section addresses the offense of cheating by personation using a computer resource  IT Act Section 72 - Breach of Confidentiality and Privacy (Information Technology Act, 2000):   This section deals with the punishment for unauthorized access to comp",
+    "metadata": {
+      "page": 99,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "2 - Breach of Confidentiality and Privacy (Information Technology Act, 2000):   This section deals with the punishment for unauthorized access to computer material, including personal data, and the breach of confidentiality and privacy.  IPC Section 354D/BNS 78 - Stalking (Indian Penal Code, 1860):  While not specific to cyber crime, this section criminalizes stalking  IPC Section 509/BNS 79 - Word, Gesture or Act Intended to Insult the Modesty of a Woman (Indian Penal Code, 1860):   Again, not specific to cyber crime, this section could be relevant if the doxxing includes the sharing of explicit or private material with the intent to insult or harm the victim.  As in Boxing, in Doxing too an accused could launch a knockout punch causing irreparable injury to the victim.",
+    "metadata": {
+      "page": 99,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "88  DOXING",
+    "metadata": {
+      "page": 100,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 89  CYBER GROOMING Cyber grooming is the process of ‘befriending’ a young person online “to facilitate online sexual contact and/or a physical meeting with them with the goal of committing sexual abuse. Cyber grooming is when someone (often an adult) befriends a child online and builds an emotional connection with future intentions of sexual abuse, sexual exploitation or trafficking. The main goals of cyber grooming are: to gain trust from the child, to obtain intimate and personal data from the child (often sexual in nature—such as sexual conversations, pictures, or videos) in order to threaten and blackmail for further inappropriate material. IT Sections Applicable  Sections of POCSO, IPC Section 292/BNS 294 IT Act Section 66E - Violation of Privacy:   This section deals with capturing,transmitting, or publishing private images of a person without their consent, leading to the violation of their privacy  IT Act Section 67B - Publishing or Transmitting Obsc",
+    "metadata": {
+      "page": 101,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "hing private images of a person without their consent, leading to the violation of their privacy  IT Act Section 67B - Publishing or Transmitting Obscene Material:  This section addresses the publishing or transmitting of sexually explicit material, including messages, images, or videos, which can be used a stools for grooming activities.  IT Act Section 67C -   Preservation and Retention of Information by Intermediaries  IT Act Section 67A -   Punishment for Publishing or Transmitting of Material Containing Sexually Explicit Act  IT Act Section 67 -   Publishing or Transmitting of Material Containing sexually explicit act, etc. in electronic form  Browse the internet with utmost Morality (principles concerning the distinction between right and wrong or good and bad behaviour) else you are sure to be encountered with cyber crimes with Mathematical Certainty.",
+    "metadata": {
+      "page": 101,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "hematical Certainty.",
+    "metadata": {
+      "page": 101,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "90  CYBER GROOMING",
+    "metadata": {
+      "page": 102,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 91  CRYPTO FRAUDS Scammers are always looking for new ways to steal your money, and the massive growth of crypto currency in recent years has created plenty of opportunities for fraud. There are many types of crypto scams. Some of the most common include: Fake Websites, Pump and Dump Scams, Phishing Scams, Fake Apps, Fake celebrity endorsements, Giveaway scams, cloud mining scams and initial offering scams. IT Sections Applicable  IT Act Section 43(a) -   This section deals with unauthorized access to computer systems and data breaches  IT Act Section 66C -   This section pertains to identity theft and could be applied to cases where individuals' identities are stolen for fraudulent purposes related to crypto currencies.  IT Act Section 66D -   This section addresses cheating by personation by using computer resources and communication devices.  IPC Section 420/BNS 318 -   Although not part of the IT Act, Section 420 of the IPC covers cheating and dishonestl",
+    "metadata": {
+      "page": 103,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "sources and communication devices.  IPC Section 420/BNS 318 -   Although not part of the IT Act, Section 420 of the IPC covers cheating and dishonestly inducing delivery of property.  Check your Avenues (a strategy for making money, a financial approach or method) else there could be reduction in your Revenues.",
+    "metadata": {
+      "page": 103,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "92  CRYPTO FRAUDS",
+    "metadata": {
+      "page": 104,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 93  CYBER SEX TRAFFICKING Cyber sex trafficking, or online sexual exploitation, is a cyber crime and a form of modern slavery. Cyber sex trafficking is when a victim is forced into sexual exploitation using coercion, force, or fraud, and their abuse is streamed live on the internet via webcam, video, photography, or other digital media. IT Sections Applicable  IPC Section 499/BNS 356, IPC Section 506/BNS 351, IPC Section 509/BNS 79, IPC Section 354A/BNS 75, IPC Section 370/BNS 143, 347 IPC Section 347/BNS 127, 357 IPC Section 357/BNS 135 IPC Section 370A -   Trafficking of persons for exploitation, which includes trafficking for sexual exploitation through electronic means. Disclosing sexually explicit or filthy content Section 292 of IPC. Sections of Immoral Traffic (Prevention) Act 1956 also known as PITA (Prevention of Immoral Trafficking Act).  67 & 67A IT Act: IT Act Section 67B -   Prohibition of publishing or transmitting sexually explicit material in",
+    "metadata": {
+      "page": 105,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "evention of Immoral Trafficking Act).  67 & 67A IT Act: IT Act Section 67B -   Prohibition of publishing or transmitting sexually explicit material in electronic form, which includes content that promotes or facilitates cyber sex trafficking.  While surfing the internet and making connections, be Mindful else it could take you from Sublime to Ridicule (from something that is very good or very serious to something very bad or silly).",
+    "metadata": {
+      "page": 105,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "94  CYBER SEX TRAFFICKING",
+    "metadata": {
+      "page": 106,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 95  CYBERWARFARE Cyberwarfare is the use of cyber attacks against an enemy state, causing comparable harm to actual warfare and/or disrupting vital computer systems. Some intended outcomes could be espionage, sabotage, propaganda, manipulation or economic warfare. IT Sections Applicable  IT Act Section 43   -   Deals with unauthorized access to computer systems and data breaches.  IT Act Section 66   -   Addresses computer-related offenses, including hacking.  IT Act Section 66F   -   Focuses on cyber terrorism, which can be relevant to cyber warfare activities.  IT Act Section 70 A   -   This section was introduced through an amendment in 2008 to provide the government with powers to issue directions for ensuring the security of cyberspace. It empowers the government to take measures for identification, analysis, and prevention of cyber threats.  IT Act Section 69   -   This section grants the Indian government the power to intercept, monitor, and decrypt a",
+    "metadata": {
+      "page": 107,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "is, and prevention of cyber threats.  IT Act Section 69   -   This section grants the Indian government the power to intercept, monitor, and decrypt any information generated,transmitted, received, or stored in any computer resource if it is necessary for national security or for maintaining public order.  IPC Section 121/BNS 147. 66E, 66 R/W 43(a) (c) (e) (f)  Sections of Unlawful Activities (Prevention) Act, 1967 (UAPA). In Maharashtra- Sections of The Maharashtra Control of Organised Crime Act, 1999 (MCOCA). Sections of Prevention of Terrorism Act, 2002.  Right to Remedy shall be Rejected if for the offence of Hacking an accused gets Convicted.",
+    "metadata": {
+      "page": 107,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "96  CYBERWARFARE",
+    "metadata": {
+      "page": 108,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 97  HACKTIVISM Derived from combining the words ‘Hack’ and ‘Activism’, hacktivism is the act of hacking, or breaking into a computer system, for politically or socially motivated purposes. The individual who performs an act of hacktivism is said to be a hacktivist. The hacktivist who does such acts, such as defacing an organization’s website or leaking that organization’s information, aims to send a message through their activities and gain visibility for a cause they are promoting. IT Sections Applicable  Information Technology Act, 2000 - Section 43:   This section deals with unauthorized access to computer systems, data, or networks.  Information Technology Act, 2000 - Section 66:   This section addresses computer-related offenses, including hacking and unauthorized access.  Information   Technology   Act,   2000   -   Section   66F:   This section specifically targets cyber terrorism and related activities.  Information   Technology   Act,   2000   -   S",
+    "metadata": {
+      "page": 109,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": " 2000   -   Section   66F:   This section specifically targets cyber terrorism and related activities.  Information   Technology   Act,   2000   -   Section   70:   This   section empowers the government to secure cyberspace by issuing directions for the interception,monitoring, or decryption of any information through any computer resource.  IPC Section 120A/BNS 61, IPC Section 121/BNS 147 IPC Section 122/BNS 149, IPC Section 153/BNS 192 IPC Section 153A/BNS 196, IPC Section 107/BNS 45 Think about you and do not allow someone else to think for you.",
+    "metadata": {
+      "page": 109,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "98  HACKTIVISM",
+    "metadata": {
+      "page": 110,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 99  METAVERSE The metaverse is a 3D version of the Internet and computing at large. The metaverse is “an integrated network of 3D virtual worlds.”   These   worlds   are   accessed   through   a   virtual   reality headset - users navigate the metaverse using their eye movements, feedback controllers or voice commands. The headset immerses the user, stimulating what is known as presence, which is created by generating the physical sensation of actually being there. IT Sections Applicable  IPC Section 354/BNS 74, IPC Section 506/BNS 351 sections of POCSO, section 67B IT Act  Right to Privacy is now a Fundamental Right under Article 21 of the Constitution of India.  Data Protection and Privacy Laws:   Laws regulating the collection, storage,processing, and sharing of personal data could apply to user interactions within the metaverse. In India, this might include compliance with the Personal Data Protection Bill, once enacted into law.  Intellectual Property L",
+    "metadata": {
+      "page": 111,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": " within the metaverse. In India, this might include compliance with the Personal Data Protection Bill, once enacted into law.  Intellectual Property Laws:   Laws governing copyrights, trademarks, and patents could extend to creations within the metaverse, such as virtual goods,artwork, and designs.  Online Conduct and Harassment Laws:   Just as in the real world, laws against harassment, hate speech, and cyber bullying could apply to interactions in the metaverse.  Digital Transactions and Consumer Protection Laws:   If virtual goods and services are bought and sold within the metaverse, laws related to digital transactions and consumer rights might be relevant.  Cyber security Laws :   Laws related to cyber security and hacking could apply to unauthorized access, data breaches, and other security incidents within the metaverse.  Be well versed that Metaverse is not the real Universe.",
+    "metadata": {
+      "page": 111,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "versed that Metaverse is not the real Universe.",
+    "metadata": {
+      "page": 111,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "100  METAVERSE",
+    "metadata": {
+      "page": 112,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 101  SESSION HIJACKING ATTACK In a session hijacking attack, cyber criminals gain unauthorized access to an active user session by exploiting vulnerabilities in web applications or networks. By taking control of the session, they can impersonate the user, access sensitive information, or conduct unauthorized actions, compromising the user’s privacy and security. IT Sections Applicable  IT Act Section 43   -   This section deals with unauthorized access to computer systems, data theft, and other computer-related offenses.  IT Act Section 66C   -   This section specifically addresses identity theft. If a session hijacking attack is carried out with the intention of impersonating an individual or causing financial or reputational harm to them, this section could be invoked.  IT Act Section 66D   -   This section covers cheating by impersonation using a computer resource.  IT Act Section 66E   -   This section deals with violation of privacy.  IT Act Section 72 ",
+    "metadata": {
+      "page": 113,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "overs cheating by impersonation using a computer resource.  IT Act Section 66E   -   This section deals with violation of privacy.  IT Act Section 72   -   This section protects the confidentiality and privacy of information handled by service providers.  Don’t let cyber intruders hijack your online ride; secure your sessions and protect your stride.",
+    "metadata": {
+      "page": 113,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "102  SESSION HIJACKING ATTACK",
+    "metadata": {
+      "page": 114,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 103  PROMPT ENGINEERING Prompt engineering refers to the manipulation of users through carefully   crafted   messages   or   prompts   to   deceive   them   into revealing sensitive information or performing unintended actions. This social engineering technique is commonly used in phishing attacks, where cyber criminals trick individuals into disclosing passwords, personal data, or financial details. IT Sections Applicable  IT Act Section 43   -   Unauthorized access to computer systems.  IT Act Section 66   -   Computer-related offenses, including hacking.  IT Act Section 67   -   Punishment for publishing or transmitting obscene material in electronic form.  IT Act Section 69   -   Power to issue directions for interception or monitoring or decryption of any information through any computer resource.  IT Act Section 72   -   Breach of confidentiality and privacy.  IT Act Section 79   -   Intermediaries not to be liable in certain cases.  IT Act Section 84A",
+    "metadata": {
+      "page": 115,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Section 72   -   Breach of confidentiality and privacy.  IT Act Section 79   -   Intermediaries not to be liable in certain cases.  IT Act Section 84A   -   Modes or methods for encryption. The Central Government may, for secure use of the electronic medium and for promotion of e-governance and e-commerce, prescribe the modes or methods for encryption.  IT Act Section 85   -   Offenses by companies.  Stay cautious and alert, so prompt engineering won't make you divert.",
+    "metadata": {
+      "page": 115,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "104  PROMPT ENGINEERING",
+    "metadata": {
+      "page": 116,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 105  FILELESS ATTACKS This attack evades traditional antivirus and detection systems by executing malicious code directly in computer memory, without leaving traces on the file system. These stealthy attacks exploit vulnerabilities in software, making them harder to detect and providing cyber criminals with remote access to systems for data theft, surveillance, or launching further attacks. IT Sections Applicable  IT Act Section 43 (Unauthorized Access) -   This section deals with unauthorized access to computer systems, data, or networks.  IT Act Section 43A (Compensation for Data Breach) -   This section deals with the compensation for improper disclosure of personal information.  IT Act Section 66 (Computer-Related Offenses) -   This section covers various computer-related offenses, including hacking.  IT Act Section 66B (Punishment for Receiving Stolen Computer Resources or Communication Devices) -   If fileless attacks involve receiving stolen computer ",
+    "metadata": {
+      "page": 117,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "t Section 66B (Punishment for Receiving Stolen Computer Resources or Communication Devices) -   If fileless attacks involve receiving stolen computer resources or communication devices, this section might be invoked.  IT Act Section 66C (Identity Theft) -   If a fileless attack leads to identity theft, this section might apply.  IT Act Section 66E (Violation of Privacy) -   In cases where privacy is violated through fileless attacks, this section might be invoked.  IT Act Section 66F (Cyber Terrorism) -   If the fileless attack is carried out with the intent of causing terror or destabilizing critical infrastructure, this section could apply.  Silent and sneaky, fileless foes; fortify your defenses and block their throes.",
+    "metadata": {
+      "page": 117,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "106  FILELESS ATTACKS",
+    "metadata": {
+      "page": 118,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 107  DELIVERY SCAM A delivery scam involves cyber criminals sending fake notifications or tracking information to deceive recipients into believing they have a package or delivery pending. The scam aims to trick victims into revealing personal information, clicking on malicious links, or paying fake shipping fees, leading to financial loss or data compromise. IT Sections Applicable  IT Act Section 43   -   Penalty for unauthorized access, damage to computer systems, etc.  IT Act Section 66   -   Computer-related offenses, including cheating by personation using a computer resource.  IPC Section 419/BNS 319   -   Punishment for cheating by personation.  IPC Section 420/BNS 318   -   Cheating and dishonestly inducing delivery of property.  Don't fall for the scammer's snare; verify before you click 'Accept' or 'Share'.",
+    "metadata": {
+      "page": 119,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "hare'.",
+    "metadata": {
+      "page": 119,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "108  DELIVERY SCAM",
+    "metadata": {
+      "page": 120,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 109  VIRTUAL KIDNAPPING This   is   a   psychological   extortion   scheme   where   perpetrators manipulate victims into believing a loved one has been kidnapped, demanding ransom to ensure their release. Though no actual abduction occurs, the emotional distress and fear generated can lead victims to comply with the demands. IT Sections Applicable  Information Technology Act, 2000 IT Act Section 66C   -   This section deals with identity theft, which could be relevant if someone’s identity is misused in a virtual kidnapping scenario.  IT Act Section 66D   -   This section covers cheating by impersonation using a computer resource, which could apply if the perpetrator impersonates the victim.  Indian Penal Code (IPC) IPC Section 503/BNS 351  This section deals with criminal intimidation, which could be relevant if threats are made in a virtual kidnapping scenario.  IPC Section 506/BNS 351  This section deals with criminal intimidation by threat of injury to ",
+    "metadata": {
+      "page": 121,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": " if threats are made in a virtual kidnapping scenario.  IPC Section 506/BNS 351  This section deals with criminal intimidation by threat of injury to a person’s reputation, etc.  Guard your virtual realm with might; virtual kidnappers shall lose the fight.",
+    "metadata": {
+      "page": 121,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "110  VIRTUAL KIDNAPPING",
+    "metadata": {
+      "page": 122,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 111  FORMJACKING It   is   an   attack   that   involves   injecting   malicious   code   into e-commerce websites’ payment forms. The code steals payment card details or personal information entered by customers during online transactions, allowing cyber criminals to engage in payment fraud or identity theft. IT Sections Applicable  Information Technology Act, 2000: IT Act Section 43   -   This section deals with unauthorized access to computer systems and data breaches.  IT Act Section 43A   -   This section deals with the compensation for failure to protect sensitive personal data.  IT Act Section 66   -   This section deals with computer-related offenses,including hacking.  IT Act Section 66C   -   This section deals with identity theft.  Indian Penal Code, 1860: IPC Section 420/BNS 318   -   This section deals with cheating and dishonestly inducing delivery of property.  IPC Section 463/BNS 336   -   This section deals with forgery.  IPC Section 464/BNS",
+    "metadata": {
+      "page": 123,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "eals with cheating and dishonestly inducing delivery of property.  IPC Section 463/BNS 336   -   This section deals with forgery.  IPC Section 464/BNS 335   -   This section deals with making a false document.  Protect your forms with utmost care; formjackers won’t find their share.",
+    "metadata": {
+      "page": 123,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "112  FORMJACKING",
+    "metadata": {
+      "page": 124,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 113  CYBERSQUATTING It refers to the practice of registering domain names similar to established brands or trademarks with the intent to profit from the brand’s reputation or sell the domain back to the rightful owner at an inflated price. This can lead to brand dilution, reputation damage, and confusion among consumers. IT Sections Applicable  IT Act Section 2(1)(r)   -   Defines “domain name,” which is crucial in understanding the context of cybersquatting.  IT Act Section 43   -   This section deals with penalties and compensation for damage to computer systems  IT Act Section 66-D   -   This section covers the offense of cheating by impersonation using a computer resource  IT Act Section 66-A   -   Although this section was struck down by the Supreme Court of India in 2015 for being unconstitutional,  IT Act Section 79   -   While not directly focused on cybersquatting, this section deals with intermediary liability.  IT Act Section 81   -   This section",
+    "metadata": {
+      "page": 125,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "t Section 79   -   While not directly focused on cybersquatting, this section deals with intermediary liability.  IT Act Section 81   -   This section ensures that the provisions of the IT Act have an overriding effect, not with standing anything inconsistent in any other law for the time being in force.  Stake your claim in the digital space; cybersquatters will find no place.",
+    "metadata": {
+      "page": 125,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "114  CYBERSQUATTING",
+    "metadata": {
+      "page": 126,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 115  DNS HIJACKING This attack involves altering the Domain Name System (DNS) settings of a computer or network, redirecting legitimate traffic to malicious websites. By intercepting and manipulating DNS queries, attackers can lead users to phishing pages, distribute malware, or engage in other malicious activities. IT Sections Applicable  IT Act Section 43   -   This section deals with unauthorized access to computer systems and data.  IT Act Section 66   -   This section deals with computer-related offenses like hacking, which could cover unauthorized access, interference, or damage to computer systems.  IT Act Section 66C -   This section deals with identity theft. If someone uses another person’s identity to commit an offense related to DNS hijacking, this section could be invoked.  IT Act Section 66D   -   This section covers cheating by personation using computer resources.  IT Act Section 66E   -   This section deals with violation of privacy.  IT Act",
+    "metadata": {
+      "page": 127,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": " This section covers cheating by personation using computer resources.  IT Act Section 66E   -   This section deals with violation of privacy.  IT Act Section 72   -   This section protects the privacy and confidentiality of information stored in a computer resource.  Don’t let your online path divert; secure your DNS, stay alert.",
+    "metadata": {
+      "page": 127,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "116  DNS HIJACKING",
+    "metadata": {
+      "page": 128,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 117  SMS BOMBING It is a form of harassment where attackers overwhelm a victim’s mobile device with a large number of unwanted text messages, disrupting   normal   communication   and   potentially   causing psychological distress. This attack aims to disrupt the victim’s peace of mind or sabotage their ability to use their phone. IT Sections Applicable  IT Act Section 66C - Identity theft :   This section deals with punishment for identity theft, which includes dishonestly using another person's electronic signature, password, or any other unique identification feature.  IT Act Section 66D - Cheating by personation using computer resource :  This section addresses the act of cheating by personation using a computer resource, and it prescribes penalties for such actions.  IT Act Section 43 - Penalty and compensation for damage to computer, computer system, etc. :   This section deals with penalties for unauthorized access to computer systems, data breaches, ",
+    "metadata": {
+      "page": 129,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "ation for damage to computer, computer system, etc. :   This section deals with penalties for unauthorized access to computer systems, data breaches, and causing damage to computer resources.  IT Act Section 66 - Computer-related offenses :   This section covers various offenses related to computer systems, including hacking, unauthorized access, and introduction of viruses.  Bombarded by texts, it’s no fun; safeguard your phone, block the SMS gun.",
+    "metadata": {
+      "page": 129,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "118  SMS BOMBING",
+    "metadata": {
+      "page": 130,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 119  INSIDER THREATS Refers to security risks posed by individuals with legitimate access to an organization’s systems, networks, or sensitive information. These threats may arise from employees, contractors, or business partners who intentionally or unintentionally misuse their privileges to steal data, commit fraud, or compromise the organization’s security. IT Sections Applicable  IT Act Section 43A   -   Compensation for Data Breach  IT Act Section 66C   -   Identity Theft  IT Act Section 66D   -   Cheating by Personation by using Computer Resource  IT Act Section 72   -   Breach of Confidentiality and Privacy  IT Act Section 72A   -   Punishment for Disclosure of Information in Breach of Law  IPC Section 408/BNS 316   -   Criminal Breach of Trust by Clerk or Servant  Be cautious of those who reside within; trust but verify, and potential harm will thin.",
+    "metadata": {
+      "page": 131,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": " trust but verify, and potential harm will thin.",
+    "metadata": {
+      "page": 131,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "120  INSIDER THREATS",
+    "metadata": {
+      "page": 132,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 121  FAKE INFLUENCER SCAM A fake social media influencer lures followers with giveaways and luxury brand deals. Victims pay registration fees but never receive prizes. The influencer vanishes after collecting money.  Following fake fame can lead to real fraud!  IT Sections Applicable  IT Act, 2000: Section 66D   - Cheating by personation using a computer resource  Section 79   - Liability of intermediaries for hosting fraudulent content  IPC / BNS: Section 419 / BNS 319(2)   - Punishment for cheating by personation  Section 420 / BNS 318(4)   - Cheating and dishonestly inducing delivery of property  Section 468/ BNS 336(3)   - Forgery for purpose of cheating  Consumer Protection Act, 2019: Section 2(47)   - Misleading advertisements  Section 21   - Penalties for false endorsements",
+    "metadata": {
+      "page": 133,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "122  FAKE INFLUENCER SCAM",
+    "metadata": {
+      "page": 134,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 123  DIGITAL ARREST A scammer posing as a police officer threatens victims with fake criminal charges. They demand immediate payment to \"settle\" the case. Victims panic and transfer money, only to realize there’s no such legal provision.  If WhatsApp says you’re under arrest, reply with a lawyer emoji and block!  IT Sections Applicable  IT Act, 2000 : Section 66C   - Identity theft  Section 66D   - Impersonation using a computer resource  IPC / BNS: Section 170 / BNS 204   -   Personating a public servant  Section 171 / BNS 205   -   Wearing garb or carrying a token used by a   public servant  Section 383/ BNS 308   -   Extortion  Indian Evidence Act, 1872: Section 65B   -   Admissibility of electronic records as evidence in fraud cases  BSA, 2023: Section 63   -   Admissibility of electronic records as evidence in fraud cases",
+    "metadata": {
+      "page": 135,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "e in fraud cases",
+    "metadata": {
+      "page": 135,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "124  DIGITAL ARREST",
+    "metadata": {
+      "page": 136,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 125  JUMPED DEPOSIT A scammer claims to have sent extra money to a seller and fakes a bank notification. The seller, believing the transaction is real, refunds the excess amount. Later, they discover no deposit was made.  If it’s too jumpy to track, it’s too risky to pay!  IT Sections Applicable  IT Act, 2000 : Section 66D   -   Cheating by personation using a computer resource  Section 43   -   Unauthorized access and fraud  IPC / BNS: Section 406 / BNS 316(2)   -   Criminal breach of trust  Section 417/ BNS 318/(2)   -   Cheating  Section 420/ BNS 318(4)   -   Cheating and dishonestly inducing delivery of property  Consumer Protection Act, 2019: Section 74   -   Unfair trade practices",
+    "metadata": {
+      "page": 137,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "126  JUMPED DEPOSIT",
+    "metadata": {
+      "page": 138,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 127  CALL MERGE SCAM A fraudster calls a victim, pretending to be from the bank. They ask the victim to merge another call, where an accomplice requests an OTP. The scammer secretly listens, steals the OTP, and empties the victim’s account.  Three’s not company when the third one’s a fraudster!  IT Sections Applicable  IT Act, 2000: Section 66C   -   Identity theft Section 66D   - Cheating by personation  IPC / BNS: Section 420 / BNS 318(4)   -   Cheating  Section 468 / BNS 336(3)   -   Forgery for purpose of cheating  Section 511/ BNS 62   -   Attempt to commit offenses punishable with life imprisonment  Telegraph Act, 1885: Section 25   -   Unauthorized interception of messages",
+    "metadata": {
+      "page": 139,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "128  CALL MERGE SCAM",
+    "metadata": {
+      "page": 140,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 129  MALVERTISING Clicking on an online ad for discounts or free products can install malware. The malicious ad redirects users to fake sites that steal login details. Victims lose money or have their data compromised.  Those flashy ads could flash your data too!  IT Sections Applicable  IT Act, 2000: Section 43   -   Unauthorized access and damage to computer systems  Section 66   -   Hacking and fraudulent use of computer resources  Section 69A   -   Blocking of harmful content  IPC / BNS: Section 425/ BNS 324   -   Mischief  Section 426/ BNS 324(2)   -   Punishment for mischief  Consumer Protection Act, 2019: Section 89   -   Deceptive online advertising penalties",
+    "metadata": {
+      "page": 141,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "130  MALVERTISING",
+    "metadata": {
+      "page": 142,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 131  WATERING HOLE ATTACK Hackers infect a trusted website frequently visited by a specific group. When users access the site, their devices get compromised. Cyber criminals steal credentials or install spyware without the victim’s knowledge.  Even safe-looking sites might be poison puddles - tread carefully  IT Sections Applicable  IT Act, 2000: Section 43   -   Unauthorized access  Section 66   -   Hacking with intent to cause harm  Section 72   -   Breach of confidentiality and privacy  IPC / BNS: Section 426 / BNS 324(2)   -   Mischief  Section 471 / BNS 340(2)   -   Using forged document as genuine  Section 120B / BNS 61(2)   -   Criminal conspiracy",
+    "metadata": {
+      "page": 143,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "132  WATERING HOLE ATTACK",
+    "metadata": {
+      "page": 144,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 133  LLM JAILBREAK A user manipulates an AI chatbot to bypass safety rules. The AI shares restricted information like hacking techniques. Authorities track misuse, and the user unknowingly becomes part of a cyber crime investigation.  Don’t teach the bot to be bad - it might graduate with honors in hacking!  IT Sections Applicable  IT Act, 2000: Section 66   -   Hacking and system manipulation  Section 67B   -   Publishing harmful content  Section 69   -   Government access and control over AI misuse  IPC / BNS : Section 505 / BNS 353   -   Statements conducing to public mischief  Section 120B / BNS 61(2)   -   Criminal conspiracy  Copyright Act, 1957: Section 51   -   Infringement of copyright through AI-generated content",
+    "metadata": {
+      "page": 145,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "134  LLM JAILBREAK",
+    "metadata": {
+      "page": 146,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 135  FAKE NEWS A communal rumor about a violent incident spreads rapidly online. People react emotionally and forward false information. Chaos ensues before authorities confirm the news was fake.  Not every forwarded message is the gospel - sometimes it’s gossip!  IT Sections Applicable  IT Act, 2000: Section 69A   -   Blocking of information in public interest  Section 66F   -   Cyber terrorism if fake news incites violence  IPC / BNS: Section 153A / BNS 196   -   Promoting enmity between groups  Section 505 / BNS 353   -   Statements conducing to public mischief  Section 124A   -   Sedition, if applicable (This section is deleted in BNS 2023)  Press Council Act, 1978: Section 14   -   Powers of the Press Council to address fake news",
+    "metadata": {
+      "page": 147,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "136  FAKE NEWS",
+    "metadata": {
+      "page": 148,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 137  FAKE PRODUCTIVITY APPS An app claiming to improve focus or time management secretly collects user data. Once installed, it asks for excessive permissions and starts spying on calls and messages. Victims lose privacy and sensitive information.  If the app promises too much, it’s probably taking more than your time!  IT Sections Applicable  IT Act, 2000: Section 43   -   Unauthorized data collection and misuse  Section 66   -   Computer-related offenses  Section 72   -   Breach of privacy  IPC / BNS: Section 420 / BNS 318(4)   -   Cheating  Section 468 / BNS 336(3)   -   Forgery for fraud  Section 120B / BNS 61(2)   -   Criminal conspiracy  Consumer Protection Act, 2019: Section 10   -   Product liability for defective digital services",
+    "metadata": {
+      "page": 149,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "138  FAKE PRODUCTIVITY APPS",
+    "metadata": {
+      "page": 150,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 139  STEGANOGRAPHY A seemingly harmless image file hides malicious code. When downloaded or opened, malware gets installed on the device. Cyber criminals use this technique to spread spyware and steal information.  If a file looks innocent but acts guilty, it’s steganography in disguise!  IT Sections Applicable  IT Act, 2000: Section 66F   -   Cyberterrorism if used for extremist purposes  Section 69   -   Government’s power to decrypt and monitor  Section 72   -   Breach of confidentiality and privacy  IPC / BNS: Section 201 / BNS 238   -   Causing disappearance of evidence  Section 120B / BNS 61(2)   -   Criminal conspiracy  Section 124A   -   Sedition, if applicable (This section is deleted in BNS 2023)  Official Secrets Act, 1923: Section 3   -   Espionage using steganography",
+    "metadata": {
+      "page": 151,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "140  STEGANOGRAPHY",
+    "metadata": {
+      "page": 152,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 141 TIPS TO STAY CYBER SAFE  by   Yashavantha Kumar KN,   DySP TIPS TO STAY CYBER SAFE 1. KEEP SOFTWARE UPDATED:  Regularly update your operating system, applications, and devices to ensure you have the latest security patches and bug fixes.  2. BEWARE OF PHISHING:  Be cautious of suspicious emails, links, and attachments. Avoid sharing personal information or clicking on unfamiliar links.  3. SECURE YOUR WI-FI NETWORK:  Set a strong password for your Wi-Fi network, enable WPA3 encryption, and change the default router login credentials.  4. USE A VIRTUAL PRIVATE NETWORK (VPN):  When using public Wi-Fi or accessing sensitive information, use a reputable VPN to encrypt your internet connection and protect your data.  5. SECURE SOCIAL MEDIA PROFILES:  Review your privacy settings on social media platforms to control who can see your posts, and be mindful of the information you share publicly.  6. REGULARLY REVIEW ACCOUNT ACTIVITY:  Check your online accounts f",
+    "metadata": {
+      "page": 153,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "rol who can see your posts, and be mindful of the information you share publicly.  6. REGULARLY REVIEW ACCOUNT ACTIVITY:  Check your online accounts for any suspicious activity and log out from devices you no longer use.  7. SECURE PHYSICAL DEVICES:   Lock your devices with a PIN, password, or biometric authentication. Consider enabling features like “Find My Device” to help locate and remotely wipe your device if lost.",
+    "metadata": {
+      "page": 153,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "142 8. USE SECURE NETWORKS:  Avoid   conducting   sensitive   transactions   or   accessing   confidential information over public Wi-Fi networks, as they may be less secure.  9. EDUCATE YOURSELF:  Stay informed about the latest cyber security threats and best practices to ensure you’re adapting to new security challenges.  10. REGULARLY MONITOR FINANCIAL STATEMENTS:  Keep an eye on your bank and credit card statements for any unauthorized transactions, and report any discrepancies immediately.  11. USE SECURE PASSWORDS:  Create strong, unique passwords for each of your accounts. Avoid using easily guessable information like birthdays or names, and consider using a combination of letters, numbers, and symbols.  12. IMPLEMENT FIREWALL PROTECTION:  Enable a firewall on your devices to control incoming and outgoing network traffic, adding an extra layer of defense against unauthorized access.  13. DISABLE UNNECESSARY SERVICES:  Turn off any unnecessary services or features on your devices",
+    "metadata": {
+      "page": 154,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": " extra layer of defense against unauthorized access.  13. DISABLE UNNECESSARY SERVICES:  Turn off any unnecessary services or features on your devices to reduce potential vulnerabilities and attack vectors.  14. REGULARLY AUDIT APP PERMISSIONS:  Review the permissions granted to apps on your devices and revoke any that don’t seem necessary for the app’s function.  15. SECURE CLOUD STORAGE:  If you use cloud storage services, enable strong encryption and utilize two-factor authentication to safeguard your data.",
+    "metadata": {
+      "page": 154,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 143 16. BE CAUTIOUS WITH DOWNLOADS:  Only   download   files   and   software   from   reputable   sources.   Avoid downloading files from unknown websites or clicking on suspicious links.  17. SECURE PHYSICAL DOCUMENTS:  Keep physical documents containing sensitive information in a secure location, and shred any documents you no longer need.  18. USE BIOMETRIC AUTHENTICATION:  Whenever   possible,   enable   biometric   authentication   methods   like fingerprint or facial recognition for an additional layer of security.  19. SECURE IOT DEVICES:  If you have smart home devices, change their default passwords, update their firmware regularly, and isolate them on a separate network if possible.  20. CREATE A DIGITAL ESTATE PLAN:  Prepare a plan for your online accounts and digital assets in case of incapacity or death, including instructions for how to handle them.",
+    "metadata": {
+      "page": 155,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": " death, including instructions for how to handle them.",
+    "metadata": {
+      "page": 155,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "144     Report all your cyber-crimes to your local police station that has the jurisdiction over your residence or your office premises, as the case maybe.     Cities having a Cyber Police Station established, cyber-crimes may be reported there and they generally have jurisdiction over the entire city (to be checked and verified before filing).     Online portals are also available in mega cities to register cyber-crimes complaints. At the national level, we have https://cybercrime.gov.in/     Districts and Mofussil areas where cyber police stations are not established, would ideally have a Cyber Cell which would register such complaints of cyber- crimes.     In absence of a cyber police station or a cyber cell, victims may approach a high- ranking police officer in a District or a City (Superintendent of Police or Deputy Commissioner of Police, as the case may be) to take directions with regards to registration of a cyber-crimes.     Every State, City, District may have a differ",
+    "metadata": {
+      "page": 156,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "r of Police, as the case may be) to take directions with regards to registration of a cyber-crimes.     Every State, City, District may have a different mechanism available to register the complaints of cyber-crimes which needs to be checked with appropriate authorities.     You may also call the National Cyber Crime Helpline number 1930 and lodge a complaint.  WHERE TO REPORT THE CYBER-CRIMES",
+    "metadata": {
+      "page": 156,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 145 GOOGLE ANDROID HARDENING CHECKLIST  by   Manjunath R G,   DySP Basic Security  1.   Enable Device Encryption – Ensure full-disk encryption is enabled for data protection. 2.   Use Strong Screen Lock – Set a strong PIN, password, or biometric authentication. 3.   Disable Smart Lock Features – Avoid unlocking in trusted places to prevent unauthorized access. 4.   Turn Off Developer Options – Disable USB debugging and OEM unlocking. 5.   Enable Google Play Protect – Keep Play Protect active to scan apps for threats. 6.   Install Apps Only from Google Play Store – Avoid side loading APKs from untrusted sources. 7.   Use a VPN – Encrypt internet traffic, especially on public Wi-Fi. 8.   Enable Automatic Updates – Keep the OS and apps updated for security patches. 9.   Review App Permissions – Revoke unnecessary permissions from apps. 10.   Disable Unused Connectivity Features – Turn off Bluetooth, Wi-Fi, and NFC when not in use. 11.   Use Secure Messaging App",
+    "metadata": {
+      "page": 157,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "permissions from apps. 10.   Disable Unused Connectivity Features – Turn off Bluetooth, Wi-Fi, and NFC when not in use. 11.   Use Secure Messaging Apps – Prefer encrypted apps like Signal or WhatsApp. 12.   Turn Off Nearby Device Scanning – Prevent unauthorized tracking and data exchange. 13.   Restrict Background Data for Apps – Control app internet access when inactive.",
+    "metadata": {
+      "page": 157,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "146  14.   Disable Clipboard Access for Apps – Avoid clipboard snooping by malicious apps. 15.   Set Up Two-Factor Authentication (2FA) – Use Google Authenticator for extra security. 16.   Enable Find My Device – Locate or wipe lost devices remotely. 17.   Use a Secure DNS – Configure encrypted DNS (e.g., Cloudflare, Google). 18.   Disable Google Assistant on Lock Screen – Prevent unauthorized voice access. 19.   Turn Off USB File Transfers – Prevent data theft via USB connections. 20.   Disable Auto-Connect to Wi-Fi – Avoid automatic connection to open networks. 21.   Block Unknown Callers & Messages – Reduce phishing and spam attacks. 22.   Monitor Background Running Apps – Stop unused apps from running in the background. 23.   Remove Unused Google Accounts – Reduce attack surfaces by limiting linked accounts. 24.   Disable Auto-Save Passwords – Use a password manager instead. 25.   Turn Off Ad Personalization – Minimize data tracking by disabling personalized ads. 26.   Use Secure F",
+    "metadata": {
+      "page": 158,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "sswords – Use a password manager instead. 25.   Turn Off Ad Personalization – Minimize data tracking by disabling personalized ads. 26.   Use Secure Folder (Samsung Devices) – Store sensitive files in an encrypted space. 27.   Regularly Clear Cache and App Data – Remove stored sensitive information. 28.   Avoid Using Public Charging Stations – Use a USB data blocker or charge-only cable. 29.   Factory Reset Before Selling – Wipe all data before handing over your device. 30.   Monitor Device Logs for Suspicious Activity – Use tools like ADB to check logs for security threats.",
+    "metadata": {
+      "page": 158,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 147 Basic Security  1.   Enable Strong Device Passcode – Use a 6-digit PIN or alphanumeric password. 2.   Turn On Automatic Updates – Ensure iOS and app updates are installed automatically. 3.   Enable Face ID or Touch ID – Use biometric authentication for secure access. 4.   Disable USB Accessories When Locked – Prevent unauthorized access via Lightning port. 5.   Turn Off Lock Screen Access – Restrict notifications, Siri, and Control Center on the lock screen. 6.   Enable Two-Factor Authentication (2FA) – Secure Apple ID with 2FA. 7.   Use Private Wi-Fi Address – Avoid Wi-Fi tracking by enabling randomized MAC addresses. 8.   Disable Airdrop for Strangers – Set AirDrop to \"Contacts Only\" or turn it off. 9.   Turn Off Unused Location Services – Manage location access for apps. 10.   Use iCloud Keychain for Passwords – Store credentials securely with end-to-end encryption. 11.   Limit App Tracking Requests – Prevent apps from tracking your activity. 12.   Bl",
+    "metadata": {
+      "page": 159,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "swords – Store credentials securely with end-to-end encryption. 11.   Limit App Tracking Requests – Prevent apps from tracking your activity. 12.   Block Unwanted Messages & Calls – Reduce spam and phishing attempts. 13.   Disable Safari Autofill for Passwords – Use a dedicated password manager.  APPLE IOS HARDENING CHECKLIST  by   Akshaya Kumar Nayak,   OPS",
+    "metadata": {
+      "page": 159,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "148  14.   Use a VPN for Secure Browsing – Encrypt internet activity on public Wi-Fi. 15.   Enable Find My iPhone – Track and remotely wipe lost devices. 16.   Disable Bluetooth When Not in Use – Reduce exposure to hacking attacks. 17.   Restrict Siri on Lock Screen – Prevent voice access without authentication. 18.   Enable Mail Privacy Protection – Block email trackers from gathering data. 19.   Limit Camera and Microphone Access – Prevent apps from unnecessary access. 20.   Use Sign in with Apple – Protect your identity when signing into apps. 21.   Enable Encrypted iCloud Backup – Securely store device backups. 22.   Turn Off Shared Wi-Fi Networks – Avoid automatically joining untrusted networks. 23.   Disable Analytics & Personalized Ads – Reduce Apple’s data collection. 24.   Monitor App Permissions Regularly – Revoke access when unnecessary. 25.   Enable Private Relay (iCloud+) – Hide IP addresses for better privacy. 26.   Clear Safari Browsing Data Regularly – Prevent tracking ",
+    "metadata": {
+      "page": 160,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "necessary. 25.   Enable Private Relay (iCloud+) – Hide IP addresses for better privacy. 26.   Clear Safari Browsing Data Regularly – Prevent tracking and improve security. 27.   Avoid Using Public Charging Stations – Use charge-only cables to prevent juice-jacking. 28.   Limit Exposure on Apple AirTags – Disable AirTag tracking if unnecessary. 29.   Use Lockdown Mode for High-Risk Users – Activate for extreme security needs. 30.   Perform Factory Reset Before Selling – Ensure complete data erasure before transfer.",
+    "metadata": {
+      "page": 160,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 149 DO'S   DONT'S 1. KYC SCAM Do's     Always verify the identity of the caller before sharing any personal details.     Contact customer care numbers only from official websites or apps.     Install caller identification apps to detect fraud calls.     Report any suspicious calls or messages to the authorities.  Dont's     Do not click on unknown or suspicious links received via SMS or WhatsApp.     Never share OTPs, PINs, passwords or account details over the phone.     Do not trust random callers claiming to be from banks or KYC teams.     Avoid calling customer care numbers obtained from search engines.  2. ONLINE JOB SCAM Do's     Verify the legitimacy of job offers via official company websites.     Be cautious if the job offers high pay for minimal work or asks for payment upfront.     Keep records of your communication and job offer details.     Research company reviews and complaints online.  Dont's     Do not pay for job registration, ",
+    "metadata": {
+      "page": 161,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "cords of your communication and job offer details.     Research company reviews and complaints online.  Dont's     Do not pay for job registration, training or offer letters.     Never share your personal or financial documents unless you're sure of the company's authenticity.     Avoid clicking on suspicious job links received via SMS or emails.     Do not entertain jobs that promise earnings without clear job roles. by   Sheik Salim,   Partner - TorSecure Cyber LLP",
+    "metadata": {
+      "page": 161,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "150 3. ONLINE SHOPPING FRAUD Do's     Shop only from trusted and verified e-commerce websites or apps.     Check seller ratings and product reviews before purchasing.     Use secure payment methods like credit/debit cards or trusted wallets.     Maintain transaction records for future reference.  Dont's     Don’t fall for deals that look too good to be true.     Avoid making payments outside the official platform.     Never share card PINs, OTPs or CVV numbers with anyone.     Do not shop from links shared over unknown social media profiles or groups.  4. LOAN SCAM Do's     Confirm whether the lending company is registered with RBI.     Read all documents carefully before accepting a loan.     Take loans only from banks or NBFCs that are regulated.     Cross-check interest rates and repayment terms.  Dont's     Do not pay any advance fee for processing or approval.     Don’t fall for schemes offering instant loans without documentation.     Avoid loan apps not listed on ",
+    "metadata": {
+      "page": 162,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": " advance fee for processing or approval.     Don’t fall for schemes offering instant loans without documentation.     Avoid loan apps not listed on official app stores.     Never share PAN, Aadhaar, or bank details without verification.  5. INVESTMENT FRAUD Do's     Do thorough research before investing in any scheme.     Verify the credentials of brokers or advisors.     Seek advice from certified financial planners if unsure.     Use SEBI-registered platforms and agents.",
+    "metadata": {
+      "page": 162,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 151 Dont's     Don’t trust guarantees of high returns with no risk.     Never invest based on WhatsApp or Telegram forwards.     Avoid links that promise doubling of money quickly.     Don’t share bank or trading credentials online.  6. SEXTORTION Do's     Be cautious when making video calls to unknown people.     Report and block individuals asking for explicit content.     Maintain privacy settings on social media.     Preserve evidence and immediately report to cybercrime cell.  Dont's     Do not share intimate photos or videos online.     Never give in to threats or blackmail demands.     Don’t engage with suspicious online profiles.     Avoid accepting random friend or chat requests.  7. ONLINE GAMING FRAUD Do's     Use parental controls if children are involved.     Set spending limits and track in-app purchases.     Report suspicious behavior or cheating.     Download games only from official app stores.  Dont's     Don’t reveal perso",
+    "metadata": {
+      "page": 163,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "rack in-app purchases.     Report suspicious behavior or cheating.     Download games only from official app stores.  Dont's     Don’t reveal personal details while gaming online.     Avoid linking debit/credit cards to game accounts.     Don’t fall for fake in-game currency offers.     Never respond to messages from unknown gamers asking for payments.",
+    "metadata": {
+      "page": 163,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "152 8. ONLINE MATRIMONIAL FRAUD Do's     Verify identity of the person through video calls or background checks.     Involve family in decision-making.     Cross-check information provided in the profile.     Report any suspicious or pressuring behavior.  Dont's     Don’t share personal or financial information quickly.     Avoid transferring money for emergencies or visas.     Don’t trust individuals who avoid meeting in person.     Do not ignore red flags like emotional manipulation.  9. OTP FRAUD Do's     Be cautious before entering OTPs anywhere online.     Understand why you're receiving an OTP.     Register for SMS alerts for transactions.     Inform the bank if an unknown OTP is received.  Dont's     Never share OTPs with anyone.     Don’t enter OTPs from random calls or messages.     Avoid saving OTPs or passwords in unsecured apps.     Don’t assume OTP requests are always harmless.  10. QR CODE FRAUD Do's     Scan QR codes only from trusted sources.     Use a",
+    "metadata": {
+      "page": 164,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "n unsecured apps.     Don’t assume OTP requests are always harmless.  10. QR CODE FRAUD Do's     Scan QR codes only from trusted sources.     Use a scanner app that shows the URL before opening.     Double-check if you’re paying or receiving money.     Keep transaction receipts.",
+    "metadata": {
+      "page": 164,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 153 Dont's     Don’t scan QR codes sent by unknown persons.     Avoid scanning codes from messages, emails or untrusted shops.     Never scan to receive payments.     Don’t believe calls asking you to scan for refunds.  11. LOAN APP SCAM Do's     Download only RBI-approved apps from trusted app stores.     Read reviews and permissions before installing apps.     Check for privacy policies and terms.     Use apps only with two-factor authentication.  Dont's     Do not allow unnecessary permissions like access to contacts or photos.     Avoid apps that promise instant loans with no verification.     Don’t click on links received from unknown numbers.     Never pay advance money to loan agents.  12. CYBER BULLYING Do's     Keep evidence of bullying (screenshots, chats).     Block and report the bully on the platform.     Inform parents, teachers or cyber cells.     Use platform privacy settings.  Dont's     Don’t retaliate or engage with bullie",
+    "metadata": {
+      "page": 165,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": " on the platform.     Inform parents, teachers or cyber cells.     Use platform privacy settings.  Dont's     Don’t retaliate or engage with bullies.     Avoid posting sensitive personal content.     Don’t ignore persistent threats or abuse.     Never meet online bullies offline.",
+    "metadata": {
+      "page": 165,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "154 13. CYBER STALKING Do's     Keep a record of stalking incidents with time and dates.     Block the stalker and adjust your privacy settings.     Inform police or cyber cell and provide evidence.     Let someone close know you are being stalked.  Dont's     Do not ignore persistent messages or calls.     Never share location or schedule online.     Avoid responding to the stalker’s messages.     Don’t meet the stalker to ‘resolve’ issues.  14. CYBER GROOMING Do's     Teach children about online safety and red flags.     Keep communication open with children.     Use parental controls and monitor online activity.     Encourage kids to report any inappropriate contact.  Dont's     Don’t leave children unsupervised online.     Never dismiss a child’s fear or suspicion.     Avoid letting kids engage with strangers online.     Don’t share children's photos publicly.  15. IMPERSONATION Do's     Set social media profiles to private.     Report fake accounts impersonating ",
+    "metadata": {
+      "page": 166,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "   Don’t share children's photos publicly.  15. IMPERSONATION Do's     Set social media profiles to private.     Report fake accounts impersonating you.     Inform friends about impersonation attempts.     Save screenshots for proof.",
+    "metadata": {
+      "page": 166,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 155 Dont's     Don’t ignore when someone pretends to be you.     Avoid sharing too much personal information online.     Don’t click on suspicious friend requests or messages.     Never share login credentials.  16. FAKE PROFILES Do's     Verify before accepting friend/follow requests.     Reverse search profile photos using Google or TinEye.     Block and report suspicious profiles.     Alert others if you see a fake profile using someone’s identity.  Dont's     Don’t accept requests from unknown persons.     Avoid chatting with or meeting someone based on limited info.     Never send personal images or videos.     Don’t believe everything in a profile.  17. VISHING Do's     Hang up and verify the number via official sources.     Report suspicious calls to your bank or telecom provider.     Use call-blocking apps.     Be aware of common phishing call patterns.  Dont's     Never share banking or personal info on calls.     Don’t trust calle",
+    "metadata": {
+      "page": 167,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "call-blocking apps.     Be aware of common phishing call patterns.  Dont's     Never share banking or personal info on calls.     Don’t trust caller IDs; they can be spoofed.     Avoid urgent-sounding calls demanding immediate action.     Don’t panic; scammers thrive on pressure.",
+    "metadata": {
+      "page": 167,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "156 18. PHISHING Do's     Check for spelling errors in emails and URLs.     Hover over links to see actual URLs before clicking.     Enable spam filters.     Use two-factor authentication for accounts.  Dont's     Don’t click on links in unsolicited emails or messages.     Avoid downloading attachments from unknown sources.     Never enter credentials on suspicious websites.     Don’t reply to phishing emails.  19. SMISHING Do's     Treat unexpected SMS messages with caution.     Verify links or numbers via official sources.     Report smishing messages to your telecom provider.     Keep your device OS and antivirus updated.  Dont's     Don’t respond to suspicious SMS messages.     Never click on unknown links.     Avoid entering OTPs or personal info on unknown websites.     Don’t believe all messages that seem to be from banks or services.  20. SIM SWAP FRAUD Do's     Contact your mobile service provider if your SIM stops working.     Monitor bank messages and trans",
+    "metadata": {
+      "page": 168,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": " banks or services.  20. SIM SWAP FRAUD Do's     Contact your mobile service provider if your SIM stops working.     Monitor bank messages and transaction alerts.     Enable mobile security PINs.     Use alternate number for banking OTPs.",
+    "metadata": {
+      "page": 168,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 157 Dont's     Don’t ignore loss of mobile signal for long.     Avoid sharing SIM or phone details online.     Don’t discard personal documents carelessly.     Don’t rely solely on SMS-based authentication.  21. IDENTITY THEFT Do's     Shred documents with personal details before disposing.     Use strong passwords and change them regularly.     Review bank and credit card statements frequently.     Monitor your digital footprint.  Dont's     Never share sensitive documents or IDs online.     Don’t store confidential data on shared devices.     Avoid using public Wi-Fi for banking.     Don’t disclose identity proofs without purpose.  22. ATM SKIMMING Do's     Inspect ATM card slots before using.     Cover keypad while entering PIN.     Use ATMs in well-lit, secure locations.     Check bank statements for unauthorized transactions.  Dont's     Don’t use ATMs that look tampered or suspicious.     Avoid taking help from strangers at ATMs.    ",
+    "metadata": {
+      "page": 169,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "ments for unauthorized transactions.  Dont's     Don’t use ATMs that look tampered or suspicious.     Avoid taking help from strangers at ATMs.     Don’t leave receipts behind.     Never share ATM PIN.",
+    "metadata": {
+      "page": 169,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "158 23. DATA THEFT Do's     Secure all devices with passwords and encryption.     Regularly backup data to secure locations.     Restrict access to confidential files.     Use updated antivirus and firewalls.  Dont's     Don’t leave devices unattended in public.     Avoid sharing passwords or data over email.     Don’t store sensitive data without encryption.     Don’t ignore unauthorized data access.  24. RANSOMWARE Do's     Backup important data frequently.     Use licensed antivirus software.     Train staff or family about phishing attacks.     Disconnect infected systems immediately.  Dont's     Never pay ransom; it encourages further crimes.     Don’t open unknown attachments or email links.     Avoid downloading pirated software.     Don’t delay reporting ransomware to authorities.",
+    "metadata": {
+      "page": 170,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 159     I use complex, unique passwords for every online account.     I never share my passwords with anyone except trusted guardians.     I activate two-factor authentication on all accounts where available.     I don’t click on unknown links or download attachments from strangers.     I avoid chatting with unknown people online, even if they seem friendly.     I never post personal information (like my school name, address, or phone number) on public platforms.     I regularly update my operating system, apps, and antivirus software.     I know how to block and report users who behave inappropriately.     I think before I share — not everything needs to be posted online.     I understand the meaning of cyberbullying and avoid engaging in it.     I keep my webcam covered when not in use.     I avoid using pirated software and games.     I have basic awareness of cybercrime laws in India (IT Act, 2000).     I report anything suspicious online t",
+    "metadata": {
+      "page": 171,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "d using pirated software and games.     I have basic awareness of cybercrime laws in India (IT Act, 2000).     I report anything suspicious online to a trusted adult or authority.     I log out of accounts after using public or shared devices.  CYBER SAFETY CHECKLIST FOR STUDENTS",
+    "metadata": {
+      "page": 171,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "160     I talk to my child regularly about their online activity and friends.     I encourage open communication without judgment if something goes wrong online.     I have installed parental control tools on devices used by my child.     I monitor screen time and set appropriate usage boundaries.     I follow or supervise my child’s social media presence.     I have taught my child about privacy settings and safe sharing.     I know how to report and file complaints in case of cyberbullying or online abuse (cybercrime.gov.in).     I stay updated about the apps and games my child is using.     I teach my child to never meet online strangers in real life.     I encourage critical thinking about online content, memes, and forwards.     I use secure Wi-Fi and avoid sharing passwords with guests or neighbors.     I ensure digital wellbeing is part of our household discussions.     I lead by example — practicing responsible digital behavior myself.     I attend workshops/webin",
+    "metadata": {
+      "page": 172,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "wellbeing is part of our household discussions.     I lead by example — practicing responsible digital behavior myself.     I attend workshops/webinars on online safety whenever possible.     I store emergency cyber helpline numbers for quick access.  CYBER SAFETY CHECKLIST FOR PARENTS",
+    "metadata": {
+      "page": 172,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 161     I include digital safety as part of my classroom discussions.     I teach students about strong passwords and personal privacy online.     I help students identify fake news, misinformation, and deepfakes.     I understand how cyberbullying manifests and how to respond.     I encourage respectful online communication and digital citizenship.     I collaborate with parents to ensure a unified approach to cyber wellness.     I stay updated with emerging digital trends (e.g., chat apps, gaming, AI tools).     I use only licensed educational software and platforms.     I maintain a clear boundary between professional and personal social media.     I know how to escalate and report a cyber incident involving a student.     I conduct digital literacy sessions with the help of IT faculty or experts.     I verify the authenticity of digital resources before sharing them.     I create a safe space where students can share online concerns.     I ",
+    "metadata": {
+      "page": 173,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "     I verify the authenticity of digital resources before sharing them.     I create a safe space where students can share online concerns.     I attend certified cyber awareness and safety programs.     I maintain confidentiality and sensitivity when dealing with digital issues.  CYBER SAFETY CHECKLIST FOR TEACHERS",
+    "metadata": {
+      "page": 173,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "162 15 DIGITAL WELLBEING & HEALTH TIPS  by   Rushikesh Upadhyay,   IPS  1.   FOLLOW THE 20-20-20 RULE:   Every 20 minutes of screen time, look at something 20 feet away for 20 seconds to reduce eye strain.  2.   USE BLUE-LIGHT BLOCKING GLASSES:   Wear blue-cut lenses while using devices to reduce digital eye strain, especially in the evening.  3.   ENABLE NIGHT MODE OR EYE COMFORT MODE:   Most devices offer warm light filters — activate them after sunset.  4.   AVOID SCREENS IN THE DARK:   Do not look at screens in complete darkness — it strains your eyes and disturbs melatonin production.  5.   KEEP A STRAIGHT POSTURE:   Sit upright with your back supported and screen at eye level to avoid neck and back issues.  6.   BLINK FREQUENTLY:   Consciously blink often to avoid dry eyes while staring at screens.  7.   TAKE TECH-FREE BREAKS:   Designate at least 30–60 minutes a day without any digital devices.  8.   AVOID SCREENS 1 HOUR BEFORE SLEEP:   Exposure to screens before bedtime can aff",
+    "metadata": {
+      "page": 174,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "ignate at least 30–60 minutes a day without any digital devices.  8.   AVOID SCREENS 1 HOUR BEFORE SLEEP:   Exposure to screens before bedtime can affect your sleep quality.  9.   KEEP DEVICES OUT OF THE BEDROOM:   Make your sleeping area a gadget-free zone to ensure deeper sleep.  10.   USE “DO NOT DISTURB” OR FOCUS MODES:   These help in staying mindful and avoiding constant interruptions.  11.   LIMIT SOCIAL MEDIA TIME:   Use apps that track your usage and gently remind you to take breaks.  12.   HYDRATE WELL:   Drink water regularly — screen time often makes people forget to stay hydrated.  13.   ADJUST SCREEN BRIGHTNESS TO MATCH ROOM LIGHTING:   Avoid using very bright or dim screens in contrast with your environment - it reduces eye strain and helps maintain focus.  14.   PRACTICE EYE EXERCISES:   Simple activities like eye rolling or palm cupping can relieve tension.  15.   STRETCH & MOVE:   Get up every hour and do basic stretches or walk around to improve blood circulation.",
+    "metadata": {
+      "page": 174,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "or palm cupping can relieve tension.  15.   STRETCH & MOVE:   Get up every hour and do basic stretches or walk around to improve blood circulation.",
+    "metadata": {
+      "page": 174,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 163 OFFENCES AND RELEVANT PENAL SECTIONS Cyber Crimes Mapping with Information Technology Act, 2000, Information Technology (Amendment) Act, 2008, IPC and Special and Local Laws. Sl. No   Nature of complaint Applicable section(s) and punishments under ITA 2000 & ITAA 2008 Applicable section(s) under other laws and punishment  1   Mobile phone lost/stolen   -   Section 379 IPC/BNS 303 3 years imprisonment or fine or both 2   Receiving stolen computer/ mobile phone/data (data or computer or mobile phone owned by you is found in the hands of someone else.) IT Act Section 66 B of ITAA 2008 3 years imprisonment or Rupees one lakh fine or both Section 411 IPC/BNS 317 3 years imprisonment or fine or both 3   Data owned by you or your company in any form is stolen IT Act Section 66 of ITAA 2008 3 years imprisonment or fine up to rupees five lakh or both Section 379 IPC/BNS 303 3 years imprisonment or fine or both 4   A password is stolen and used by someone else for",
+    "metadata": {
+      "page": 175,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "fine up to rupees five lakh or both Section 379 IPC/BNS 303 3 years imprisonment or fine or both 4   A password is stolen and used by someone else for fraudulent purpose. IT Act Section 66C of ITAA 2008 3 years imprisonment and fine up to Rupees one lakh IT Act Section 66D ITAA 2008 3 years imprisonment and fine up to Rupees one lakh Section 419 IPC/BNS 319 3 years imprisonment or fine Section 420 IPC/BNS 318 7 years imprisonment and fine 6   An e-mail is read by someone else by fraudulently making use of password IT Act Section 66 of ITAA 2008 3 years imprisonment or fine up to Rupees five lakh or both IT Act Section 66C of ITAA 2008 3 years imprisonment and fine up to Rupees one lakh 7   A biometric thumb impression is misused IT Act Section 66C of ITAA 2008 3 years imprisonment and fine up to IT Act Rupees one lakh 8   An electronic signature or digital signature is misused Section 66C of ITAA 2008 3 years imprisonment and fine up to Rupees one lakh 10   A Phishing e-mail is sent ou",
+    "metadata": {
+      "page": 175,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "gnature or digital signature is misused Section 66C of ITAA 2008 3 years imprisonment and fine up to Rupees one lakh 10   A Phishing e-mail is sent out in your name, asking for login credentials IT Act Section 66D of ITAA 2008 3 years imprisonment and fine up to Rupees one lakh Section 419 IPC/BNS 319 3 years imprisonment or fine or both 11   Capturing, publishing, or transmitting the image of the private area without any person’s consent or knowledge IT Act Section 66E of ITAA 2008 3 years imprisonment or fine not exceeding Rupees two lakh or both Section 292 IPC/BNS 294 2 years imprisonment and fine Rupees 2000 and 5 years and rupees 5000 for second and subsequent conviction 12   Tampering with computer source Documents IT Act Section 65 of ITAA 2008 3 years imprisonment or fine up to Rupees two lakh or both IT Act Section 66 of ITAA 2008 3 years imprisonment or fine up to Rupees five lakh or both 13   Data Modification   IT Act Section 66 of ITAA 2008 3 years imprisonment or fine up",
+    "metadata": {
+      "page": 175,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "08 3 years imprisonment or fine up to Rupees five lakh or both 13   Data Modification   IT Act Section 66 of ITAA 2008 3 years imprisonment or fine up to Rupees five lakh or both",
+    "metadata": {
+      "page": 175,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "164  14   Sending offensive messages through communication service, etc. Section 500 IPC/BNS 356 2 years or fine or both Section 504 IPC/BNS 351 2 years or fine or both Section 506 IPC/BNS 351 2 years or fine or both — if threat be to cause death or grievous hurt, etc. — 7 years or fine or both Section 507 IPC/BNS 351 2 years along with punishment under IT Act Section 506 IPC/BNS 351 Section 508 IPC/BNS 351 1 year or fine or both Section 509 IPC/BNS 79 1 years or fine or both of IPC as applicable 15   Publishing or transmitting obscene material in electronic form IT Act Section 67 of ITAA 2008 first conviction — 3 years and 5 lakh Second or subsequent conviction— 5 years and up to 10 lakh Section 292 IPC/BNS 294 2 years imprisonment and fine Rupees 2000 and 5 years and rupees 5000 for second and subsequent conviction 16   Publishing or transmitting of material containing sexually explicit act, etc., in electronic form IT Act Section 67A of ITAA 2008 first conviction —5 years and up to ",
+    "metadata": {
+      "page": 176,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "ansmitting of material containing sexually explicit act, etc., in electronic form IT Act Section 67A of ITAA 2008 first conviction —5 years and up to 10 lakh Second or subsequent conviction— 7 years and up to 10 lakh Section 292 IPC/BNS 294 2 years imprisonment and fine Rupees 2000 and 5 years and rupees 5000 for second and subsequent conviction 17   Punishment for publishing or transmitting of material depicting children in sexually explicit act, etc., in electronic form IT Act Section 67B of ITAA 2008 first conviction —5 years and up to 10 lakh Second or subsequent conviction - 7 years and up to 10 lakh Section 292 IPC/BNS 294 2 years imprisonment and fine Rupees 2000 and 5 years and rupees 5000 for second and subsequent conviction 18   Misusing a Wi-Fi connection for acting against the state IT Act Section 66 3 years imprisonment or fine up to Rupees five lakh or both IT Act Section 66F life imprisonment of ITAA 2008 19   Planting a computer virus that acts against the state   IT Ac",
+    "metadata": {
+      "page": 176,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "ne up to Rupees five lakh or both IT Act Section 66F life imprisonment of ITAA 2008 19   Planting a computer virus that acts against the state   IT Act Section 66 3 years imprisonment or fine up to Rupees five lakh or both 66F - life imprisonment 20   Conducting a denial of service attack against a government computer Section 66 of ITAA 2008 3 years imprisonment or fine up to Rupees five lakh or both Section 66F of ITAA 2008— life imprisonment of 21   Stealing data from a government computer that has significance from national security perspective IT Act Section 66 of ITAA 2008 3 years imprisonment or fine up to Rupees five lakh or both, 66F - life imprisonment 22   Not allowing the authorities to decrypt all communication that passes through your computer or network. IT Act Section 69 of ITAA 2008 imprisonment up to 7 years and fine 23   Intermediaries not providing access to information stored on their computer to the relevant authorities IT Act Section 69 of ITAA 2008 imprisonment u",
+    "metadata": {
+      "page": 176,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": " Intermediaries not providing access to information stored on their computer to the relevant authorities IT Act Section 69 of ITAA 2008 imprisonment up to 7 years and fine",
+    "metadata": {
+      "page": 176,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 165  24   Failure to Block Web sites, when ordered IT Act Section 69A of ITAA 2008 imprisonment up to 7 years and fine 25   Sending threatening messages by e-mail Section 506 IPC/BNS 351 2 years or fine or both 25   Word, gesture or act intended to insult the modesty of a woman Section 509 IPC/BNS 79 1 years or fine or both - IPC as applicable 26   Sending defamatory messages by e-mail Section 500 IPC/BNS 356 2 years or fine or both 27   Bogus Web sites, cyber frauds IT Act Section 66D of ITAA 2008 3 years imprisonment and fine up to Rupees one lakh Section 419 IPC/BNS 319 3 years imprisonment or fine Section 420 IPC/BNS 318 7 years imprisonment and fine 28   E-mail Spoofing   IT Act Section 66C of ITAA 2008 3 years imprisonment and fine up to Rupees one lakh Section 465 IPC/BNS 336 2 years or fine or both Section 468 IPC/BNS 336 7 years imprisonment and fine 29   Making a false document   IT Act Section 66D of ITAA 2008 3 years imprisonment and fine up to R",
+    "metadata": {
+      "page": 177,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "ion 468 IPC/BNS 336 7 years imprisonment and fine 29   Making a false document   IT Act Section 66D of ITAA 2008 3 years imprisonment and fine up to Rupees one lakh Section 465 IPC/BNS 336 2 years or fine or both 30   Forgery for purpose of cheating IT Act Section 66D of ITAA 2008 3 years imprisonment and fine up to Rupees one lakh Section 468 IPC/BNS 336 7 years imprisonment and fine 31   Forgery for purpose of harming reputation IT Act Section 66D of ITAA 2008 3 years imprisonment and fine up to Rupees one lakh Section 469 IPC/BNS 336 3 years and fine 32   E-mail Abuse   Section 500 IPC/BNS 356 2 years or fine or both 33   Punishment for criminal intimidation Section 506 IPC/BNS 351 2 years or fine or both — if threat be to cause death or grievous hurt, etc. — 7 years or fine or both 34   Criminal intimidation by an anonymous communication Section 507 IPC/BNS 351 2 years along with punishment under Section 506 IPC/BNS 351 35   Copyright infringement   IT Act Section 66 of ITAA 2008 3",
+    "metadata": {
+      "page": 177,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "ion Section 507 IPC/BNS 351 2 years along with punishment under Section 506 IPC/BNS 351 35   Copyright infringement   IT Act Section 66 of ITAA 2008 3 years imprisonment or fine up to Rupees five lakh or both Section 63, 63B Copyrights Act 1957 36   Theft of Computer Hardware Sec. 379 IPC 3 years imprisonment or fine or both 37   Online Sale of Drugs   NDPS Act 38   Online Sale of Arms   Arms Act  Disclaimer:   The above-mentioned explanations made herein are to the best of our knowledge and interpretations and are purely for academic and information purpose only. They may be used as a guiding force. They should not be construed as legal opinion by any stretch of imagination. We are thankful to all the stake holders for uploading information which we may have used for education purpose only.",
+    "metadata": {
+      "page": 177,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "166 ONLINE COMPLAINT  1. National Cyber crime Reporting Portal  www.cybercrime.gov.in  2. National Commission for Women  www.ncw.gov.in ncwapps.nic.in HELPLINE NUMBERS  Cyber Crime Helpline   :   1930  National Emergency Number   :   112  Police   :   100  Women Helpline   :   1091  Women Helpline Domestic Abuse   :   181  Student / Child Helpline   :   1098  Mental Health Helpline   :   1800-599-0019  iCall Suicide Helpline   :   9152987821  Fire   :   101  Ambulance   :   102  Disaster Management Service   :   108  National Commission For Women Domestic Violence, Sexual Violence & Harassment:  78271 70170, 011-26942369, 26944754",
+    "metadata": {
+      "page": 178,
+      "chapter": "INTRODUCTION"
+    }
+  },
+  {
+    "content": "Beti Bachao, Cyber Crime Se 167  If you’ve read the book and would like to suggest improvements, new topics, or share your own experiences, please drop an email to  educatorananth@gmail.com We’d Love Your Feedback!  Help us improve the next edition of Cyber Safe Girl. Your suggestions make this mission stronger and more effective!",
+    "metadata": {
+      "page": 179,
+      "chapter": "INTRODUCTION"
+    }
+  }
+]
