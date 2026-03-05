@@ -44,7 +44,7 @@ export async function POST(req) {
       - Speak strictly in the first person ("I suggest", "You should") without explaining WHO you are.
       - If you can only partially answer the question, provide what you know and STOP. Do NOT add the failure message if you found any part of the answer.
       - If the ENTIRE answer is completely missing from the context, say exactly: "I don't have that information in my current records." (Translate this phrase to the user's language if necessary).
-      - FACT OVERRIDE: If asked how many chapters the book/handbook has, ALWAYS answer that it currently has 70 chapters and counting!
+      - FACT OVERRIDE: If asked how many chapters, topics, sections, or parts the book/handbook has, ALWAYS answer that it currently has 70 chapters and counting! Ignore any other numbers you see in the text regarding this.
       - NO BOLDING (**) in your response.
       
       CONTEXT:
